@@ -40,10 +40,10 @@ jobs:
       - run:
           name: Installing json_pp
           command: |
-            apt install -y json_pp
+            sudo apt install -y json_pp
 
       - run:
-          name: Just one file is updated
+          name: public/delegates.json is formatted properly
           command: |
             cat public/delegates.json | json_pp
 
