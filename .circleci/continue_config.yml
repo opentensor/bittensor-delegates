@@ -41,11 +41,12 @@ jobs:
           name: Restore cached venv
           key: bittensor-delegates
 
-      - name: Update & Activate venv
-        command: |
-          python -m venv env/
-          . env/bin/activate
-          pip install --upgrade pip && pip install -r tooling/requirements.txt
+      - run:
+          name: Update & Activate venv
+          command: |
+            python -m venv env/
+            . env/bin/activate
+            pip install --upgrade pip && pip install -r tooling/requirements.txt
 
       - save_cache:
           name: Save cached venv
