@@ -37,10 +37,21 @@ jobs:
     steps:
       - checkout
 
-      #- run:
-      #    name: Installing json_pp
-      #    command: |
-      #      sudo apt-get update && sudo apt-get install -y json_pp
+      - restore_cache:
+          name: Restore cached venv
+          key: bittensor-delegates
+
+      - name: Update & Activate venv
+        command: |
+          python -m venv env/
+          . env/bin/activate
+          pip install --upgrade pip && pip install -r tooling/requirements.txt
+
+      - save_cache:
+          name: Save cached venv
+          paths:
+            - "env/"
+          key: bittensor-delegates
 
       - run:
           name: public/delegates.json is formatted properly
@@ -52,6 +63,10 @@ jobs:
           command: |
             ./checks/json_pretty_print.sh
 
+      - run:
+          name: public/delegates.json signatures are present and correct
+          command: |
+            ./checks/verify_signature.sh
 
 # here we specify our workflows, most of which are conditionally
 # executed based upon pipeline parameter values. Each workflow calls a
