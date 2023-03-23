@@ -1,0 +1,32 @@
+{
+    "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3": {
+        "name": "Openτensor Foundaτion",
+        "url": "https://opentensor.ai/",
+        "description": "Founded, maintain and advance Bittensor"
+    },
+    "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf": {
+        "name": "Neural Interneτ",
+        "url": "https://neuralinternet.ai/",
+        "description": "An AI research and development decentralized autonomous organization (DAO)."
+    },
+    "5FLKnbMjHY8LarHZvk2q2RY9drWFbpxjAcR5x8tjr3GqtU6F": {
+        "name": "τao Bridge", 
+        "url": "https://taobridge.xyz", 
+        "description": "A community bridge between Bittensor and Ethereum"
+    },
+    "5HeKSHGdsRCwVgyrHchijnZJnq4wiv6GqoDLNah8R5WMfnLB": {
+        "name": "τaoStation",
+        "url": "https://taostation.com",
+        "description": "The go to validator for maximal TAO returns to stakers."
+    },
+    "5ECvRLMj9jkbdM4sLuH5WvjUe87TcAdjRfUj5onN4iKqYYGm": {
+        "name": "Vune",
+        "url": "https://fairchild.dev",
+        "description": "Vune is a dev at Opentensor and a BSc CS student at UofT."
+    },
+    "5H6BgKkAr2Anmm9Xw5BVDE4VaQmFEVMkJUHeT7Gki4J7yF4x": {
+        "name": "τaoPolishNode",
+        "url": "https://taonode.io",
+        "description": "This node is a collective effort of the polish community. We are engaged in evangelizing the project, educating and sharing the knowledge."
+    }
+}

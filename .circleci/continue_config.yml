@@ -1,0 +1,61 @@
+version: 2.1
+
+orbs:
+  discord: antonioned/discord@0.1.0
+
+# the default pipeline parameters, which will be updated according to
+# the results of the path-filtering orb
+parameters:
+  run-check-delegates-job:
+    type: boolean
+    default: false
+
+jobs:  
+  plan:
+    working_directory: /tmp/project
+    docker:
+      - image: cimg/python:3.10
+    parameters:
+      discord_webhook:
+        type: string
+        default: ''
+    steps:
+      - run:
+          name: Installing curl and bash (For notifications delivery)
+          command: |
+            apk add --no-cache curl bash
+      - checkout
+      - discord/status:
+          fail_only: false
+          failure_message: "**${CIRCLE_JOB}**: Check delegates failed. **Job triggered by** ${CIRCLE_USERNAME}."
+          webhook: << parameters.discord_webhook >>
+          success_message: "**${CIRCLE_JOB}**: Check delegates executed succesfully. **Job triggered by** ${CIRCLE_USERNAME}."
+  
+  check-json-format:
+    docker:
+      - image: cimg/python:3.10
+    parameters:
+      file:
+        type: string
+    steps:
+      - checkout
+
+      - run:
+          name: Installing json_pp
+          command: |
+            apk add --no-cache json_pp
+
+      - run:
+          name: Just one file is updated
+          command: |
+            cat public/delegates.json | json_pp
+
+
+# here we specify our workflows, most of which are conditionally
+# executed based upon pipeline parameter values. Each workflow calls a
+# specific job defined above, in the jobs section.
+workflows:
+  check-delegates:
+    when: << pipeline.parameters.run-check-delegates-job >>
+    jobs:
+      - check-json-format
