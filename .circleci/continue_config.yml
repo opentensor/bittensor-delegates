@@ -45,7 +45,7 @@ jobs:
       - run:
           name: public/delegates.json is formatted properly
           command: |
-            cat public/delegates.json | json_pp
+            ./checks/json_formatted.sh
 
 
 # here we specify our workflows, most of which are conditionally
