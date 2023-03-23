@@ -40,7 +40,7 @@ jobs:
       - run:
           name: Installing json_pp
           command: |
-            apt install --no-cache json_pp
+            apt install -y json_pp
 
       - run:
           name: Just one file is updated
