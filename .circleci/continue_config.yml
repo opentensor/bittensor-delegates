@@ -37,10 +37,10 @@ jobs:
     steps:
       - checkout
 
-      - run:
-          name: Installing json_pp
-          command: |
-            sudo apt-get update && sudo apt-get install -y json_pp
+      #- run:
+      #    name: Installing json_pp
+      #    command: |
+      #      sudo apt-get update && sudo apt-get install -y json_pp
 
       - run:
           name: public/delegates.json is formatted properly
