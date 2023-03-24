@@ -1,8 +1,98 @@
 {
+    "5ECvRLMj9jkbdM4sLuH5WvjUe87TcAdjRfUj5onN4iKqYYGm": {
+        "name": "Vune",
+        "url": "https://fairchild.dev",
+        "description": "Vune is a dev at Opentensor and a BSc CS student at UofT.",
+        "signature": "2a639f931c61abfc3172db594c986c35f1cc8441970582b9c3b1f0506d518a182a2fe570832f02f86014320f1526189917bfbccf7081622652d12e16e9b1768b"
+    },
+    "5H6BgKkAr2Anmm9Xw5BVDE4VaQmFEVMkJUHeT7Gki4J7yF4x": {
+        "name": "TaoPolishNode",
+        "url": "https://taonode.io",
+        "description": "This node is a collective effort of the polish community. We are engaged in evangelizing the project, educating and sharing the knowledge.",
+        "signature": "1ca20d4e99a48f400dd9cd4aeca8447da6ab1979e480a1dafddfc52e45e215177c7cdde85f5d042d59a5b1169981afa8d1ae28328e2fc5ce57c3d748c8d09d81"
+    },
+    "5CPzGD8sxyv8fKKXNvKem4qJRhCXABRmpUgC1wb1V4YAXLc3": {
+        "name": "Tao Staking",
+        "url": "https://www.taostaking.com",
+        "description": "Empowering innovation on the Bittensor network by helping upcoming projects grow and thrive on Bittensor.",
+        "signature": "b27963a9138b2ad2241759e8ab6aae94f08a8985e726b3728aeedeb89df82776df9f674ef60e5dabb9da69d11a6364c548840ceb6b3c117a5e8cf2ae85ff4f83"
+    },
+    "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v": {
+        "name": "RoundTable21",
+        "url": "https://roundtable21.com",
+        "description": "RoundTable21 is an International, multi-disciplinary team of consultants and advisors partnering alongside leading blockchain startups to offer guidance, expertise, investment and hands-on assistance in every aspect of development.",
+        "signature": "107638b8edde8f918f7faa2cd1f91b454c13094ed5955d6a409f6e0662f8427075516273728a53923839a5428079151ea0844b5f755362364f04735463dff583"
+    },
+    "5DCc5oHA6c1Lpt9R6T1xU8jJGTMvvwBqD1yGX67sL8dHUcga": {
+        "name": "WaveTensor",
+        "url": "https://twitter.com/wavetensor",
+        "description": "A new Wave is coming, join the AI revolution on top of Bittensor by staking with us.",
+        "signature": "5e072b4752ccbdd4ca3298f336284dfdab347dd133850f4d2f9873e7ea59bd2a8f201732842ec79d2bab3abaf133a06b6bd992940389e42d57802c9b8f855889"
+    },
+    "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w": {
+        "name": "Rizzo",
+        "url": "",
+        "description": "Validator built for performance and uptime. Data center housed, redundancies include dual physical failover servers (HA), power, internet, tested DR Plan.",
+        "signature": "f2b0fdb6989c23a0ebe23ed5622cbbfcf57bad709085fe11b0be10b2838e1442d61f770d78f6ca8ebcdbf60ddb27398663a4901e22bb9de086866517c6ccc187"
+    },
+    "5GcBK8PDrVifV1xAf4Qkkk6KsbsmhDdX9atvk8vyKU8xdU63": {
+        "name": "Tensor.Exchange",
+        "url": "www.tensor.exchange",
+        "description": "Bittensor's first community OTC exchange",
+        "signature": "101f5e0d26c38190200f2213ebd89cf5bcb736b70a84e53651b6f9bf1161a33d0095836d304851237e0334792a54fa2fe452d07cf1466b42c9ab3333ded46284"
+    },
     "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux": {
         "name": "TAO-Validator.com",
         "url": "www.tao-validator.com",
         "description": "Maximize your return when staking with TAO-Validator.com. TAO-Validator.com is a highly secure validator that aims to become one of the top contributing entities to Bittensor.",
         "signature": "4036991069d7f3a43dff2ba2592fbe5af820eb6ff96d1fb78f1bcd8d310ba8751e25ea14397e075368a9a0f1b1b176166c56351db36f2d3868ac61c2571a1981"
+    },
+    "5FvhvCWLbu2VgotT5obC9E6S9nskerJUrVsWqkWXCbuD8veW": {
+        "name": "The Lost Cove",
+        "url": "https://lostcove.tech/",
+        "description": "Australia and New Zealand community. We're in it for the gains.",
+        "signature": "626ae6b91aac1591e5d4f8d4fdf2c55f927419fc766dd5184b149f4d7cbc9749ebc94e4e8d04d286b4000c7665afa5682aa28cd94071c5e384e0eb4f44def188"
+    },
+    "5Dyi5e2QqnWn2RN9X6r8A8Q1QBjYD536H75mxNye193oeCJ4": {
+        "name": "Makoto AI",
+        "url": "https://www.linkedin.com/in/henry-thrasher-17b320239/",
+        "description": "An interdisciplinary research institute committed to discovering and accelerating innovative solutions for climate change, social inequality, and mental and physical illness.",
+        "signature": "3cfbc1e8d82cfbf2adea9b10f71541874528cf5cd851f29f48016ac2a1a07b01cfc2ba3c3a15634b1174bd3e5aec9eb843d04f74140b0ddcb526416666d6f682"
+    },
+    "5Ehv5XMriPZwNBtYHdQV7VrdbN8MBTDTmQhWprZJXxSiMapR": {
+        "name": "Dale Cooper",
+        "url": "",
+        "description": "I have no idea where this will lead us, but I have a definite feeling it will be a place both wonderful and strange.",
+        "signature": "06c597178698dba5699e20dc8b9d0d44f9225e24a225c70f540b63867e5b835a74c87df647b28210b361007b642a5a869c74323fcc8a593bc5764ea8e2083b81"
+    },
+    "5E6oB7h5wtWPbqtPxtSoZeo11fpvDjPuY13SobAMxqEUjqkQ": {
+        "name": "StakeTensor.com-3",
+        "url": "www.staketensor.com",
+        "description": "We run multiple, parallel validators to support Bittensor decentralization & achieve maximum returns",
+        "signature": "a2567b6de748f02f6a14e0063f5b5720b34c96deb2115b33893d016de1f60633ba58bf9bdd49b2141e12a4a8784b4b11c007679d7526eb1e91147e5284258d8a"
+    },
+    "5DnWFhKfeu6gXMydzrv8bkwxFegAC6bMWsC4Z2XtaotAeB6S": {
+        "name": "Bittensor Greece",
+        "url": "",
+        "description": "The Greek / Cypriot validator supporting the development of decentralised AI",
+        "signature": "ee8df5360eb641bd91a38da9d8b6dda36a39302c9bba7babf5d7eb16f6e9f73321aeb6f8adb30e0f511d64c1f35caa15215dd280fb2ed3f8f5b09d783cc9958f"
+    },
+    "5GBxDYkDp8eJZHGT89wcZJKcMc4ytSqnqqVSpeuGeqtGfqxK": {
+        "name": "Tao Stake",
+        "url": "www.taostake.io",
+        "description": "We have been mining since the start of bittensor and want to maintain a long term solid validator to help people get some value from thier investment and keep TAO within the ecosystem.",
+        "signature": "0272522b503ebb29f0b506f10765b4d5c7a23b85c78cc7bfae76b9816b80ab43282ea4642f09eb09be70812341e5d9946abc8a9d2c73bab0113e9bf939430c87"
+    },
+    "5FcXnzNo3mrqReTEY4ftkg5iXRBi61iyvM4W1bywZLRqfxAY": {
+        "name": "Lucrosus Capital",
+        "url": "https://lucrosuspool.io/",
+        "description": "Decentralized VC focused on the most thriving blockchain ideas. Join our pool to receive early entrance into promising projects!",
+        "signature": "1a37ab3bd51a6590dea9772d6a5550632ddcd8d76da6595b66e6425692feac6699dc5f788e587a734cedc3f54efc96c2c9e5453f9052867c1b9a1b5a443b848c"
+    },
+    "5CVS9d1NcQyWKUyadLevwGxg6LgBcF9Lik6NSnbe5q59jwhE": {
+        "name": "Ary van der Touw",
+        "url": "",
+        "description": "Secure and maintain Bittensor",
+        "signature": "809586931d4b28f180c98036a3eebc0d26b9e521f5217a6942b025069cb60807641737009713446eec8456e54ba753ae0b752c0693b942aefa0c4f76d82f8c89"
     }
 }
