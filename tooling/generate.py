@@ -2,25 +2,34 @@ import json
 
 from bittensor import Keypair
 
-
-mnemonic = input("The mnemonic of your validator's Hotkey ( see file: ~/.bittensor/wallets/<coldkey>/hotkeys/<validator> ) : ")
-descriptive_name = input("Your validator's descriptive name (i.e. Opentensor Foundation): ")
-
-url = input("Your validator url (i.e. www.opentensor.org ): ")
-description = input("A short description for your validator ( i.e. Build, maintain and advance Bittensor): ")
+name = input("Your validator's descriptive name (e.g. Opentensor Foundation):\n")
+url = input("Your validator url (e.g. www.opentensor.org ) [Optional]:\n")
+description = input(
+    "A short description for your validator ( e.g. Build, maintain and advance Bittensor):\n"
+)
+mnemonic = input(
+    "The mnemonic of your validator's hotkey "
+    "( default location: ~/.bittensor/wallets/<coldkey>/hotkeys/<validator> )\n"
+)
 
 keypair = Keypair.create_from_mnemonic(mnemonic)
-dictionary = {}
-dictionary[ keypair.ss58_address ] = {
-    'name': descriptive_name,
-    'url': url,
-    'description': description,
+delegates_entry = dict()
+delegates_entry[keypair.ss58_address] = {
+    "name": name,
+    "url": url,
+    "description": description,
 }
-message = json.dumps( dictionary )
-signature = keypair.sign( data = message )
 
-print('\n\n\tVerified', Keypair(ss58_address=keypair.ss58_address).verify( data = message, signature = signature) )
-print (
-    "\tValidator information: {}\n".format(message),
-    "\tValidator signature: {}\n\n".format(signature.hex()),
-)
+message = json.dumps(delegates_entry)
+signature = keypair.sign(data=message)
+delegates_entry[keypair.ss58_address]["signature"] = signature.hex()
+
+print(f"Adding entry: {delegates_entry}")
+with open("public/delegates.json", "r") as fh:
+    delegates = json.loads(fh.read())
+
+delegates.update(delegates_entry)
+
+with open("public/delegates.json", "w") as fh:
+    fh.write(json.dumps(delegates))
+print("Success. Submit these changes as PR at https://github.com/opentensor/bittensor-delegates")
