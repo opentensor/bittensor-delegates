@@ -11,16 +11,10 @@
         "description": "Run by individuals passionate about creating decentralised digital infrastructure. Background in fiduciary funds management managing institutional investors' capital in real assets, energy and infrastructure",
         "signature": "a0324025f58beb06535d6a2ab8c5c8d64c13d562fa285956bb5a8919da5fcc0d05afe4de010d54f9940bff0ffdabe5f41e70f3af31cf14293c1d6f0a0690da8c"
     },
-  "5EpxBYq4aVgTQ1rYeBo2mzYt3hgpRTqxZTSsJEkCstBP5Jse": {
-        "name": "White Rhino TAO Super Validator",
-        "url": "https://twitter.com/WhiteRhinoTAO\\",
-        "description": "White Rhino is all about you! We understand that #TAOWaits4NoOne ..... Get Ready for Adhoc Rewards and we invite you to delegate here and enhance the sustainability of the TAO Network",
-        "signature": "d6803522f6e61a9dec5261a6a500b733d233b373457382fc3713af21c560604f6e50c4999f286cfa6012bcea66e51223722b355dd69ba54a472f2c6ca52da08f"
-    },
-  "5Fq5v71D4LX8Db1xsmRSy6udQThcZ8sFDqxQFwnUZ1BuqY5A": {
-        "name": "mnrv.ai",
-        "url": "https://www.mnrv.ai/",
-        "description": "mnrv.ai, the godess of wisdom, providing resources, information, and education to the Bittensor community ",
-        "signature": "748e8645a55a25851e3dac030d4afd46678655c1dd17881fa5885cebfb6fbf3734453b5214472714260cacd85d6c04f25ffc9e425c9200f4d49e5d7a5fc87280"
+  "5D9wuLzoWSbucNx6NQRo7wdNfvW2poMy3NumSiggsEStPc9X": {
+        "name": "T A O A L M A N A C H",
+        "url": "",
+        "description": "TAO ALMANACH is the validator of bittensor mod blardo and polkadot mod mister_cole",
+        "signature": "44b805b531e9c8148dd86d08b7070ec8e0c7efb2126bacc547ffcaf12eec580e6858d4769503c38ecdd34166330eef51cefd1c91421f0773d36cac19daa5bf81"
     }
 }
