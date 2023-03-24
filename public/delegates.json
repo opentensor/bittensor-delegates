@@ -1,4 +1,4 @@
-{
+public/delegates.json{
     "5ECvRLMj9jkbdM4sLuH5WvjUe87TcAdjRfUj5onN4iKqYYGm": {
         "name": "Vune",
         "url": "https://fairchild.dev",
@@ -11,7 +11,6 @@
         "description": "This node is a collective effort of the polish community. We are engaged in evangelizing the project, educating and sharing the knowledge.",
         "signature": "1ca20d4e99a48f400dd9cd4aeca8447da6ab1979e480a1dafddfc52e45e215177c7cdde85f5d042d59a5b1169981afa8d1ae28328e2fc5ce57c3d748c8d09d81"
     },
-
     "5CPzGD8sxyv8fKKXNvKem4qJRhCXABRmpUgC1wb1V4YAXLc3": {
         "name": "Tao Staking",
         "url": "https://www.taostaking.com",
@@ -24,21 +23,18 @@
         "description": "RoundTable21 is an International, multi-disciplinary team of consultants and advisors partnering alongside leading blockchain startups to offer guidance, expertise, investment and hands-on assistance in every aspect of development.",
         "signature": "107638b8edde8f918f7faa2cd1f91b454c13094ed5955d6a409f6e0662f8427075516273728a53923839a5428079151ea0844b5f755362364f04735463dff583"
     },
-
     "5DCc5oHA6c1Lpt9R6T1xU8jJGTMvvwBqD1yGX67sL8dHUcga": {
         "name": "WaveTensor",
         "url": "https://twitter.com/wavetensor",
         "description": "A new Wave is coming, join the AI revolution on top of Bittensor by staking with us.",
         "signature": "5e072b4752ccbdd4ca3298f336284dfdab347dd133850f4d2f9873e7ea59bd2a8f201732842ec79d2bab3abaf133a06b6bd992940389e42d57802c9b8f855889"
     },
-
     "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w": {
         "name": "Rizzo",
         "url": "",
         "description": "Validator built for performance and uptime. Data center housed, redundancies include dual physical failover servers (HA), power, internet, tested DR Plan.",
         "signature": "f2b0fdb6989c23a0ebe23ed5622cbbfcf57bad709085fe11b0be10b2838e1442d61f770d78f6ca8ebcdbf60ddb27398663a4901e22bb9de086866517c6ccc187"
     },
-
     "5GcBK8PDrVifV1xAf4Qkkk6KsbsmhDdX9atvk8vyKU8xdU63": {
         "name": "Tensor.Exchange",
         "url": "www.tensor.exchange",
