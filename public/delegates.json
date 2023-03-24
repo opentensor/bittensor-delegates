@@ -142,5 +142,11 @@
         "url": "https://foundrydigital.com",
         "description": "Foundry works to empower a decentralized infrastructure. We are protocol-agnostic and seek to support like-minded blockchain entrepreneurs who share our mission to advance the industry.",
         "signature": "b852f1648ab62befaaf684671808aa34d267cd616d9ffd7b3cf924ebc7c4ee3255344cfd017a80ca6b23b2852bcafa705c42d231053e06d999d53f31bd8ab288"
+    },
+    "5FP9miYmgjAP8Wt3747M2Y6Kk7PrXf6zG7a3EjokQiFFcmUu": {
+        "name": "Elm Place",
+        "url": "",
+        "description": "Run by individuals passionate about creating decentralised digital infrastructure. Background in fiduciary funds management managing institutional investors’ capital in real assets, energy and infrastructure",
+        "signature": "a0324025f58beb06535d6a2ab8c5c8d64c13d562fa285956bb5a8919da5fcc0d05afe4de010d54f9940bff0ffdabe5f41e70f3af31cf14293c1d6f0a0690da8c"
     }
 }
