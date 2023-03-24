@@ -94,5 +94,11 @@
         "url": "",
         "description": "Secure and maintain Bittensor",
         "signature": "809586931d4b28f180c98036a3eebc0d26b9e521f5217a6942b025069cb60807641737009713446eec8456e54ba753ae0b752c0693b942aefa0c4f76d82f8c89"
+    },
+    "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3": {
+        "name": "Openτensor Foundaτion",
+        "url": "https://opentensor.ai/",
+        "description": "Founded, maintain and advance Bittensor",
+        "signature": "8a2ff8f10a84a5b6f80614674ea764515d93a64bf8d920b927edc0dd6043e607755bf58655c87b7a299d8df1404574b6844e1e09adf86d418997c0cab8120486"
     }
 }
