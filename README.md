@@ -5,7 +5,7 @@
 ### 2023-03-23 - First version
 
 1. Execute tooling/generate.py and follow the prompts:
-```shell
+```
 $ python tooling/generate.py
 Your validator's descriptive name (e.g. Opentensor Foundation):
 Openτensor Foundaτion
