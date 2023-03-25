@@ -101,4 +101,10 @@
         "description": "Founded, maintain and advance Bittensor",
         "signature": "8a2ff8f10a84a5b6f80614674ea764515d93a64bf8d920b927edc0dd6043e607755bf58655c87b7a299d8df1404574b6844e1e09adf86d418997c0cab8120486"
     }
+    "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf": { 
+        "name": "Neural Internet", 
+        "url": "www.neuralinternet.ai", 
+        "description": "An AI research and development Decentralized Autonomous Organization (DAO)", 
+        "signature": "5e617c1626d4825cd0c11769e31fe4dda611cebd8a4d46f533886ad057072e2a58e0ecef2805139f2b43ea8d51023f7db878ad45cd3f8fba45ab01223da3488e"
+    } 
 }
