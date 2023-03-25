@@ -101,4 +101,10 @@
         "description": "Founded, maintain and advance Bittensor",
         "signature": "8a2ff8f10a84a5b6f80614674ea764515d93a64bf8d920b927edc0dd6043e607755bf58655c87b7a299d8df1404574b6844e1e09adf86d418997c0cab8120486"
     }
+    "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
+        "name": "τaosτaτs",
+        "url": "https://taostats.io/",
+        "description": "Supporting the bittensor eco-system through data provision, statistics and analytics.",
+        "signature": "063214cb898977393f7911d3d566ee002953c82a82326089b3cf387b273bb206ac0957a4f6daab1a922f1c3d2e14c3df8db8c6f303e0631d76c9e9f8d2eca186"
+    }
 }
