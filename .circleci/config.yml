@@ -91,7 +91,7 @@ workflows:
           # path filtering and pipeline parameter value updates are
           # complete. In this case, we are using the parent dynamic
           # configuration itself.
-  check-delegates:
-    when: << pipeline.parameters.run-check-delegates-job >>
-    jobs:
-      - check-json-file
+    check-delegates:
+      when: << pipeline.parameters.run-check-delegates-job >>
+      jobs:
+        - check-json-file
