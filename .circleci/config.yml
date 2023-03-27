@@ -91,7 +91,6 @@ workflows:
           # path filtering and pipeline parameter value updates are
           # complete. In this case, we are using the parent dynamic
           # configuration itself.
-          config-path: .circleci/continue_config.yml
   check-delegates:
     when: << pipeline.parameters.run-check-delegates-job >>
     jobs:
