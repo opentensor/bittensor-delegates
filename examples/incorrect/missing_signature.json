@@ -1,17 +1,7 @@
 {
-  "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf": {
-        "name": "Neural Interneτ",
-        "url": "https://neuralinternet.ai/",
-        "description": "An AI research and development decentralized autonomous organization (DAO)."
-    },
     "5HeKSHGdsRCwVgyrHchijnZJnq4wiv6GqoDLNah8R5WMfnLB": {
         "name": "τaoStation",
         "url": "https://taostation.com",
         "description": "The go to validator for maximal TAO returns to stakers."
     },
-  "5CAW5xpgPbxGUzkE3dgmM2XasaygpbvtSoTh3UeR8RMfHQZU": {
-        "name": "Vogue τensor",
-        "url": "https://voguetensor.webflow.io/",
-        "description": "Designing branded clothing for the Bittensor community."
-    }
 }
