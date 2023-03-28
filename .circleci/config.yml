@@ -3,27 +3,75 @@ version: 2.1
 # this allows you to use CircleCI's dynamic configuration feature
 setup: true
 
-# the path-filtering orb is required to continue a pipeline based on
-# the path of an updated fileset
 orbs:
-  path-filtering: circleci/path-filtering@0.1.1
+  discord: antonioned/discord@0.1.0
+
+parameters:
+  run-check-delegates-job:
+    type: boolean
+    default: false
+
+jobs:
+  plan:
+    working_directory: /tmp/project
+    docker:
+      - image: cimg/python:3.10
+    parameters:
+      discord_webhook:
+        type: string
+        default: ''
+    steps:
+      - run:
+          name: Installing curl and bash (For notifications delivery)
+          command: |
+            apk add --no-cache curl bash
+      - checkout
+      - discord/status:
+          fail_only: false
+          failure_message: "**${CIRCLE_JOB}**: Check delegates failed. **Job triggered by** ${CIRCLE_USERNAME}."
+          webhook: << parameters.discord_webhook >>
+          success_message: "**${CIRCLE_JOB}**: Check delegates executed succesfully. **Job triggered by** ${CIRCLE_USERNAME}."
+
+  check-json-file:
+    docker:
+      - image: cimg/python:3.10
+    steps:
+      - checkout
+
+      - restore_cache:
+          name: Restore cached venv
+          key: bittensor-delegates
+
+      - run:
+          name: Update & Activate venv
+          command: |
+            python -m venv env/
+            . env/bin/activate
+            pip install --upgrade pip && pip install -r tooling/requirements.txt
+
+      - save_cache:
+          name: Save cached venv
+          paths:
+            - "env/"
+          key: bittensor-delegates
+
+      - run:
+          name: public/delegates.json is formatted properly
+          command: |
+            ./checks/json_formatted.sh
+
+      - run:
+          name: public/delegates.json is pretty printed
+          command: |
+            ./checks/json_pretty_print.sh
+
+      - run:
+          name: public/delegates.json signatures are present and correct
+          command: |
+            ./checks/verify_signature.sh
 
 workflows:
   # the always-run workflow is always triggered, regardless of the pipeline parameters.
-  always-run:
+  pr-requirements:
     jobs:
-      # the path-filtering/filter job determines which pipeline
-      # parameters to update.
-      - path-filtering/filter:
-          name: check-updated-files
-          # 3-column, whitespace-delimited mapping. One mapping per
-          # line:
-          # <regex path-to-test> <parameter-to-set> <value-of-pipeline-parameter>
-          mapping: |
-            public/delegates.json run-check-delegates-job true
-          base-revision: main
-          # this is the path of the configuration we should trigger once
-          # path filtering and pipeline parameter value updates are
-          # complete. In this case, we are using the parent dynamic
-          # configuration itself.
-          config-path: .circleci/continue_config.yml
+      - check-json-file
