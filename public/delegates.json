@@ -154,5 +154,11 @@
         "url": "www.neuralinternet.ai",
         "description": "An AI research and development Decentralized Autonomous Organization (DAO)",
         "signature": "5e617c1626d4825cd0c11769e31fe4dda611cebd8a4d46f533886ad057072e2a58e0ecef2805139f2b43ea8d51023f7db878ad45cd3f8fba45ab01223da3488e"
-    }
+    },
+    "5D4rJRtF23jLVcGnCktXzPM9gymMT1qHTp8dR4T7rUd88Q7U": {
+        "name": "Vogue τensor",
+        "url": "www.voguetensor.ai",
+        "description": "Designing branded clothing for the Bittensor community.",
+        "signature": "2c4079124ae0a738106a2430e2c27ad855122d4afcc487ab0158b705cd5f915f7790cdb2fdd8db899b8cbd40448d1478be71cde1b76de31945991b548cfcc084"
+    },
 }
