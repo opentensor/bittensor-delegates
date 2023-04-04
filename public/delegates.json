@@ -164,6 +164,7 @@
     "5CAVnbHniuZYXBqik3tTs9uZ7UiSrbv6g7Kt8QNfYimbFqF4": {
         "name": "Open & Safe AI Validator",
         "url": "",
-        "description": "The Open & Safe AI Validator is focussed on funding and researching the control problem as well as spreading ML know-how through open source and open science."
+        "description": "The Open & Safe AI Validator is focussed on funding and researching the control problem as well as spreading ML know-how through open source and open science.",
+        "signature": "80f1bb74b8e2e27b7b5d89991e9ab3545a798ecb6394c71d0055883005a40f79ee6e3f7c179d481d3225a6643cc168a1675b03c0a91f070680834cb78b61508f"
     }
 }
