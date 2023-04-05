@@ -160,5 +160,11 @@
         "url": "https://www.taostaking.com",
         "description": "Our 5 core principles: Reliability. Technical Expertise. Active participation. Responsiveness. Honesty and integrity.",
         "signature": "d454b94fa15b07c7193ae3e7446e3ee4ae889d3170f8cec5bab6ee4550b504437f1e840fa67b8046be0bb76eb814e885f9086c68074f5c310c25920a4bd23f8b"
+    },
+    "5HeKSHGdsRCwVgyrHchijnZJnq4wiv6GqoDLNah8R5WMfnLB": {
+        "name": "TaoStation",
+        "url": "https://taostation.com",
+        "description": "TaoStation allows you to maximize your returns by offering one-click staking since day one and focusing on tooling and transparency for a better staking experience.",
+        "signature": "c00627a62ecb9275be8d06b7b52b87942bce946e9a5f98d545081241e21ed15230fd566b2d4e87c41995e621546423579553157737da53fad3a5676451ef0a89"
     }
 }
