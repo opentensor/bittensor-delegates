@@ -160,5 +160,11 @@
         "url": "https://www.taostaking.com",
         "description": "Our 5 core principles: Reliability. Technical Expertise. Active participation. Responsiveness. Honesty and integrity.",
         "signature": "d454b94fa15b07c7193ae3e7446e3ee4ae889d3170f8cec5bab6ee4550b504437f1e840fa67b8046be0bb76eb814e885f9086c68074f5c310c25920a4bd23f8b"
+    },
+    "5DvTpiniW9s3APmHRYn8FroUWyfnLtrsid5Mtn5EwMXHN2ed": {
+        "name": "FirstTensor.com", 
+        "url": "https://firsttensor.com", 
+        "description": "Powered by the Neuron Holders community - shared rewards, additional benefits, infinite possibilities - join and build with us!"
+        "signature": "2ccafb08a510d23761c1a33cc54d7e61b3218fa340a94bfbf8cf5a06c1ab6b7feebd0f0241524dabac3b768b0e98ae547bacabd660e2ade66e4ee5a8af82de80"
     }
 }
