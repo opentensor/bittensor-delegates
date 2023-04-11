@@ -11,12 +11,6 @@
         "description": "This node is a collective effort of the polish community. We are engaged in evangelizing the project, educating and sharing the knowledge.",
         "signature": "1ca20d4e99a48f400dd9cd4aeca8447da6ab1979e480a1dafddfc52e45e215177c7cdde85f5d042d59a5b1169981afa8d1ae28328e2fc5ce57c3d748c8d09d81"
     },
-    "5CPzGD8sxyv8fKKXNvKem4qJRhCXABRmpUgC1wb1V4YAXLc3": {
-        "name": "Tao Staking",
-        "url": "https://www.taostaking.com",
-        "description": "Empowering innovation on the Bittensor network by helping upcoming projects grow and thrive on Bittensor.",
-        "signature": "b27963a9138b2ad2241759e8ab6aae94f08a8985e726b3728aeedeb89df82776df9f674ef60e5dabb9da69d11a6364c548840ceb6b3c117a5e8cf2ae85ff4f83"
-    },
     "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v": {
         "name": "RoundTable21",
         "url": "https://roundtable21.com",
@@ -166,5 +160,11 @@
         "url": "",
         "description": "The Open & Safe AI Validator is focussed on funding and researching the control problem as well as spreading ML know-how through open source and open science.",
         "signature": "2aeaf7b9c7f69ce7b4857d9c278d1363677d4971d4ca10a36933b1aa78bfdb0640e4bb798edac5dcb178a8b3f4be2d0d23d25da6c7db33758a6cf5c15cd6938a"
+    },
+    "5Gpt8XWFTXmKrRF1qaxcBQLvnPLpKi6Pt2XC4vVQR7gqNKtU": {
+        "name": "Tao Staking",
+        "url": "https://www.taostaking.com",
+        "description": "Our 5 core principles: Reliability. Technical Expertise. Active participation. Responsiveness. Honesty and integrity.",
+        "signature": "d454b94fa15b07c7193ae3e7446e3ee4ae889d3170f8cec5bab6ee4550b504437f1e840fa67b8046be0bb76eb814e885f9086c68074f5c310c25920a4bd23f8b"
     }
 }
