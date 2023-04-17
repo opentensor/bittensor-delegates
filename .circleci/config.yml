@@ -54,6 +54,7 @@ jobs:
           key: *deps
           paths:
             - "env"
+            - ".git"
 
       - run:
           name: public/delegates.json is formatted properly
