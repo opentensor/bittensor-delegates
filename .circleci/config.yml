@@ -40,20 +40,21 @@ jobs:
 
       - restore_cache:
           name: Restore cached venv
-          key: bittensor-delegates
+          key: &deps bittensor-delegates-{{ .Branch }}-{{ checksum "tooling/requirements.txt" }}
 
       - run:
           name: Update & Activate venv
           command: |
-            python -m venv env/
+            python -m venv env
             . env/bin/activate
             pip install --upgrade pip && pip install -r tooling/requirements.txt
 
       - save_cache:
           name: Save cached venv
+          key: *deps
           paths:
-            - "env/"
-          key: bittensor-delegates
+            - "env"
+            - ".git"
 
       - run:
           name: public/delegates.json is formatted properly
