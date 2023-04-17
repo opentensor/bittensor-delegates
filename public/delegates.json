@@ -155,6 +155,12 @@
         "description": "Designing branded clothing for the Bittensor community.",
         "signature": "2c4079124ae0a738106a2430e2c27ad855122d4afcc487ab0158b705cd5f915f7790cdb2fdd8db899b8cbd40448d1478be71cde1b76de31945991b548cfcc084"
     },
+    "5CAVnbHniuZYXBqik3tTs9uZ7UiSrbv6g7Kt8QNfYimbFqF4": {
+        "name": "Open & Safe AI Validator",
+        "url": "",
+        "description": "The Open & Safe AI Validator is focussed on funding and researching the control problem as well as spreading ML know-how through open source and open science.",
+        "signature": "2aeaf7b9c7f69ce7b4857d9c278d1363677d4971d4ca10a36933b1aa78bfdb0640e4bb798edac5dcb178a8b3f4be2d0d23d25da6c7db33758a6cf5c15cd6938a"
+    },
     "5Gpt8XWFTXmKrRF1qaxcBQLvnPLpKi6Pt2XC4vVQR7gqNKtU": {
         "name": "Tao Staking",
         "url": "https://www.taostaking.com",
@@ -166,6 +172,11 @@
         "url": "https://firsttensor.com", 
         "description": "Powered by the Neuron Holders community - shared rewards, additional benefits, infinite possibilities - join and build with us!"
         "signature": "5cf0e794ac83f6751af16715732dc7d275fb72e626322b0a2fdae690362963180b632b4b838132faf552c5ab40ce06cddb3a6b298a510e88af1b9c39ba5bdc8a"
+    },
+    "5HeKSHGdsRCwVgyrHchijnZJnq4wiv6GqoDLNah8R5WMfnLB": {
+        "name": "TaoStation",
+        "url": "https://taostation.com",
+        "description": "TaoStation allows you to maximize your returns by offering one-click staking since day one and focusing on tooling and transparency for a better staking experience.",
+        "signature": "c00627a62ecb9275be8d06b7b52b87942bce946e9a5f98d545081241e21ed15230fd566b2d4e87c41995e621546423579553157737da53fad3a5676451ef0a89"
     }
-    
 }
