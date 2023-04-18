@@ -178,5 +178,11 @@
         "url": "www.firsttensor.com",
         "description": "Powered by the Neuron Holders community - shared rewards, additional benefits, infinite possibilities - join and build with us!",
         "signature": "da31e56dd78cde449a1dd9592f0b53eb8c3662674b745a05ff916e80a1be933e86efbccb7f7c9b81d7c0bb14d13fb4a6bf8484c3619224e689de82072b5d9a87"
+    },
+    "5CaNj3BarTHotEK1n513aoTtFeXcjf6uvKzAyzNuv9cirUoW": {
+        "name": "Polychain",
+        "url": "https://polychain.capital/",
+        "description": "Polychain is an investment firm committed to exceptional returns for investors through actively managed portfolios of blockchain assets.",
+        "signature": "f41e815033e595aa70fbe42e8dfd91eaa3ccdbc948b63811baf9eac765699b30cac9aad7abe330eeaf3969cc504a4c1255f1e69bee807c2d989518b8f5413c8d"
     }
 }
