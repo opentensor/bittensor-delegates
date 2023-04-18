@@ -172,5 +172,11 @@
         "url": "https://taostation.com",
         "description": "TaoStation allows you to maximize your returns by offering one-click staking since day one and focusing on tooling and transparency for a better staking experience.",
         "signature": "c00627a62ecb9275be8d06b7b52b87942bce946e9a5f98d545081241e21ed15230fd566b2d4e87c41995e621546423579553157737da53fad3a5676451ef0a89"
+    },
+    "5DvTpiniW9s3APmHRYn8FroUWyfnLtrsid5Mtn5EwMXHN2ed": {
+    "name": "FirstTensor.com",
+    "url": "www.firsttensor.com",
+    "description": "Powered by the Neuron Holders community - shared rewards, additional benefits, infinite possibilities - join and build with us!",
+    "signature": "4861c00a6c827659e116677dbd981b4787db99b9de25553058d4d55106ff01105dd6ca533367278967653e08dad8d2a66bf62a68a2ff810e2a24588efc371480"
     }
 }
