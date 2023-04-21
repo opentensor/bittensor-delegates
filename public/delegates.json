@@ -186,9 +186,9 @@
         "signature": "f41e815033e595aa70fbe42e8dfd91eaa3ccdbc948b63811baf9eac765699b30cac9aad7abe330eeaf3969cc504a4c1255f1e69bee807c2d989518b8f5413c8d"
     },
     "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
-        "name": "τaosτaτs",
-        "url": "https://taostats.io/",
+        "name": "TaoStats.io",
+        "url": "taostats.io",
         "description": "Supporting the bittensor eco-system through data provision, statistics and analytics.",
-        "signature": "063214cb898977393f7911d3d566ee002953c82a82326089b3cf387b273bb206ac0957a4f6daab1a922f1c3d2e14c3df8db8c6f303e0631d76c9e9f8d2eca186"
+        "signature": "aa732b20962ade70467a6e956102f6e7ab7f3c3ca2bd46038316ec2f71b5426214945b4eae6dcb34a9d8fb254534c64b17f645ca367e309430fb59f32445a68e"
     }
 }
