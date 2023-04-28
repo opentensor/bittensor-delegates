@@ -190,5 +190,12 @@
         "url": "taostats.io",
         "description": " Supporting the bittensor eco-system through data provision, statistics and analytics.",
         "signature": "f68991af781dab8f90f84bf2462818ed602f9e021eb1c90e3cef7bc77fa6ef6fd5e5dce35775cf9f5839aa8d36512849316d03f1df2c6514c3e44810c1e7e98d"
+    },
+    "5Dkv87qjGGF42SNhDAep6WZp65E29c2vUPUfDBGDNevENCMs": {
+        "name": "MycoNet",
+        "url": "",
+        "description": "AI for Humanity",
+        "signature": "a4802a5b13888ed653fd23da72c14e2b8ed9814cc810e515cb8d11d71cc58c6b90cd2d334daffc4a8ce600a7f29ca300ab74ac59817bdd489b3056b531cd4086"
     }
+            
 }
