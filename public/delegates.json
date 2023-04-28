@@ -191,4 +191,10 @@
         "description": " Supporting the bittensor eco-system through data provision, statistics and analytics.",
         "signature": "f68991af781dab8f90f84bf2462818ed602f9e021eb1c90e3cef7bc77fa6ef6fd5e5dce35775cf9f5839aa8d36512849316d03f1df2c6514c3e44810c1e7e98d"
     }
+        "5F1KNLWyXhm2oQ8D4A4fnSonRTgwgDEX1HgDgATYiT7jRAUK": {
+        "name": "MycoNet",
+        "url": "",
+        "description": "AI for Humanity",
+        "signature": "c4458e2bc72645aa67e58044a5e203a6c363b51a3f9b479ef794e46d2bc9f825107807c7a869f2249955b4b2324aa264329b81a5d1328f179bf7c6288b71678f"
+    }
 }
