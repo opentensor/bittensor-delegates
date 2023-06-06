@@ -196,5 +196,23 @@
         "url": "",
         "description": "AI for Humanity",
         "signature": "a4802a5b13888ed653fd23da72c14e2b8ed9814cc810e515cb8d11d71cc58c6b90cd2d334daffc4a8ce600a7f29ca300ab74ac59817bdd489b3056b531cd4086"
+    },
+    "5GzoXHNJ4UzZYiQN2wpBcwMigiHiakiz5ZLMwhpunpwDNzFg": {
+        "name": "Charitaos",
+        "url": "https://charitas.ai/",
+        "description": "You pay 18%, we donate 18%. At the end of every month, we will select one (or more) community-proposed 501c3 licensed nonprofit(s) to receive all proceeds from stake delegation for the prior month.",
+        "signature": "b49c34c1f87d173abcbccb1ea632ad356980c1d3eff6619e488c11707b2b3b41270a22355374dd64cfadebeb37979ef5f49971efafb0748b79df7dd2901e7580"
+    },
+    "5EZrPTXt2G9SvbDsERi5rS9zepour2yPmuhMhrNkgdiZvXEm": {
+        "name": "τaoτensor",
+        "url": "",
+        "description": "Working on practical enhancements and improvements for the Bittensor network by developing user-friendly tooling.",
+        "signature": "3a1b61ab6d17878e106cbf2649bc039d0346f39ec680476a68baa4fc8132ac018d814898cf245bdfa4b9b61cd9f611f6571cf3c264f2f1cfe9b2635849087685"
+    },
+    "5CPzGD8sxyv8fKKXNvKem4qJRhCXABRmpUgC1wb1V4YAXLc3": {
+        "name": "Chat with Hal",
+        "url": "www.chatwithhal.ai",
+        "description": "Hal brings the power of decentralized and uncensorable AI to your favorite social networks and messaging apps, Powered by Bittensor!",
+        "signature": "ecb930df6069012c06fef9cdb29a95be8dcb5d48f3c470d3f3c5e7b2b334ed2097f2598fee8852d127a207cf34aa7c88fd5cf973feba19d6ebf38b5e4579ca8f"
     }
 }
