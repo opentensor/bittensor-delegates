@@ -196,5 +196,11 @@
         "url": "",
         "description": "AI for Humanity",
         "signature": "a4802a5b13888ed653fd23da72c14e2b8ed9814cc810e515cb8d11d71cc58c6b90cd2d334daffc4a8ce600a7f29ca300ab74ac59817bdd489b3056b531cd4086"
+    },
+    "5EZrPTXt2G9SvbDsERi5rS9zepour2yPmuhMhrNkgdiZvXEm": {
+        "name": "τaoτensor",
+        "url": "",
+        "description": "Working on practical enhancements and improvements for the Bittensor network by developing user-friendly tooling.",
+        "signature": "ec49c226e8cd5355f8af91e0d0b0100a9a7296f0f3666aaf4b1be716f46370119542b2f658758846157ef4cbe9132f6cc37eae74864d5bc4c7a727aa3ec48887"
     }
 }
