@@ -31,5 +31,6 @@ with open("public/delegates.json", "r") as fh:
 delegates.update(delegates_entry)
 
 with open("public/delegates.json", "w") as fh:
-    fh.write(json.dumps(delegates))
+    # Dump with 4 indent and do not escape non-ascii characters
+    fh.write(json.dumps(delegates, indent=4, ensure_ascii=False))
 print("Success. Submit these changes as PR at https://github.com/opentensor/bittensor-delegates")
