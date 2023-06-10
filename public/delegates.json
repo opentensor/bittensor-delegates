@@ -186,10 +186,10 @@
         "signature": "f41e815033e595aa70fbe42e8dfd91eaa3ccdbc948b63811baf9eac765699b30cac9aad7abe330eeaf3969cc504a4c1255f1e69bee807c2d989518b8f5413c8d"
     },
     "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
-        "name": "τaosτaτs",
+        "name": "τaosτaτs _ BitAPAI",
         "url": "taostats.io",
-        "description": " Supporting the bittensor eco-system through data provision, statistics and analytics.",
-        "signature": "f68991af781dab8f90f84bf2462818ed602f9e021eb1c90e3cef7bc77fa6ef6fd5e5dce35775cf9f5839aa8d36512849316d03f1df2c6514c3e44810c1e7e98d"
+        "description": "Supporting bittensor through API access, data provision, statistics and analytics.",
+        "signature": "f4ce3b309d2461e86b5c3998fbdd21f000d7ea90be72255e2979573cd2a627175bfc052156b8e7daa910a96b57138b6f16881da64b8969103ed196e39acd908e"
     },
     "5Dkv87qjGGF42SNhDAep6WZp65E29c2vUPUfDBGDNevENCMs": {
         "name": "MycoNet",
@@ -214,5 +214,11 @@
         "url": "www.chatwithhal.ai",
         "description": "Hal brings the power of decentralized and uncensorable AI to your favorite social networks and messaging apps, Powered by Bittensor!",
         "signature": "ecb930df6069012c06fef9cdb29a95be8dcb5d48f3c470d3f3c5e7b2b334ed2097f2598fee8852d127a207cf34aa7c88fd5cf973feba19d6ebf38b5e4579ca8f"
+    },
+    '5FqPJMZDp39KRd9jDhXuFpZWkYD7wG5AXmjoWqK8rDy7ok5B': {
+        "name": "Exchange Listings", 
+        "url": "taostats.io/validators/exchange-listings/", 
+        "description": "Enabling community funding for top tier exchange listings.", 
+        "signature": "a0cccc5693ce35ef496201c507cddb6775fe7fd5c20c3097f4e967da4261ca31263f54e2b06095d6bee569cf6c4003641832bc4fa13d61ab0cce7e993767b383"
     }
 }
