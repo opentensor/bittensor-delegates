@@ -214,5 +214,12 @@
         "url": "www.chatwithhal.ai",
         "description": "Hal brings the power of decentralized and uncensorable AI to your favorite social networks and messaging apps, Powered by Bittensor!",
         "signature": "ecb930df6069012c06fef9cdb29a95be8dcb5d48f3c470d3f3c5e7b2b334ed2097f2598fee8852d127a207cf34aa7c88fd5cf973feba19d6ebf38b5e4579ca8f"
+     },
+    "5ED6jwDECEmNvSp98R2qyEUPHDv9pi14E6n3TS8CicD6YfhL": {
+        "name": "Giga Corporation",
+        "url": "https://www.gigaver.se",
+        "description": "Extreme growth & experiments from giga corp. We use APY to TAO-pill new developers, builders and adopters. Visit our Bakery to learn more.",
+        "signature": "5455a4ff56e380d24633984d162629711f76c6a3d4898424dbb935668d3a0f07df12d93638ed3169f99e4237909f7dd49cdf9eeb28ab9b053b28e087ee5e3888"
     }
+    
 }
