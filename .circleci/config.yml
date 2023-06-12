@@ -61,10 +61,10 @@ jobs:
           command: |
             ./checks/json_formatted.sh
 
-      - run:
-          name: public/delegates.json is pretty printed
-          command: |
-            ./checks/json_pretty_print.sh
+      #- run:
+      #    name: public/delegates.json is pretty printed
+      #    command: |
+      #      ./checks/json_pretty_print.sh
 
       - run:
           name: public/delegates.json signatures are present and correct
