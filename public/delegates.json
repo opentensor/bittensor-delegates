@@ -214,5 +214,11 @@
         "url": "www.chatwithhal.ai",
         "description": "Hal brings the power of decentralized and uncensorable AI to your favorite social networks and messaging apps, Powered by Bittensor!",
         "signature": "ecb930df6069012c06fef9cdb29a95be8dcb5d48f3c470d3f3c5e7b2b334ed2097f2598fee8852d127a207cf34aa7c88fd5cf973feba19d6ebf38b5e4579ca8f"
+    },
+    "5FqPJMZDp39KRd9jDhXuFpZWkYD7wG5AXmjoWqK8rDy7ok5B": {
+        "name": "Exchange Listings",
+        "url": "taostats.io/validators/exchange-listings/",
+        "description": "Enabling community funding for top tier exchange listings.",
+        "signature": "366027e9a416a423e7e802e9b6d79bd5ac88642afd945922e13fe26a75dae13dd5c924738610a59162d9b974364d1d43fb7a0145942cd919ac21d82d3f4f028d"
     }
 }
