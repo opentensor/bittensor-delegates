@@ -220,5 +220,12 @@
         "url": "taostats.io/validators/exchange-listings/",
         "description": "Enabling community funding for top tier exchange listings.",
         "signature": "366027e9a416a423e7e802e9b6d79bd5ac88642afd945922e13fe26a75dae13dd5c924738610a59162d9b974364d1d43fb7a0145942cd919ac21d82d3f4f028d"
+    },
+    "5ED6jwDECEmNvSp98R2qyEUPHDv9pi14E6n3TS8CicD6YfhL": {
+        "name": "Giga Corporation",
+        "url": "https://www.gigaver.se",
+        "description": "Extreme growth & experiments from giga corp. We use APY to TAO-pill new developers, builders and adopters. Visit our Bakery to learn more.",
+        "signature": "00e5cd519110bbfe3dae9acd275d114c6c2a260997a1817a25303b9d578bdf7319e9e7179f0db58edef2ad42806cb38e289ba0030627a3b60e1e4352c2b9cb88"
     }
 }
+
