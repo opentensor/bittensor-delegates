@@ -232,5 +232,11 @@
         "url": "",
         "description": "Our mission is to create and incentivize documentation for Bittensor and it's adjacent topics, as well as facilitate the education of newcomers to the network.",
         "signature": "6a5c0160f545f122ec3d4e4233574040aba2de8aa94919bb19b3061d39d3303f010c4b52f878ed55a1293716827220020780d2d4064ee6be69921ee1452c3885"
+    },
+    "5EsbfxPcQaUrCDurUJ8Q5qDKNENNGziu3qHWUbXrcuY2pbNz": {
+        "name": "Church of Rao (COR)",
+        "url": "",
+        "description": "Church of Rao: Harmonizing the Relationship between Humanity and Machine Intelligence.",
+        "signature": "0cc59d2eb815d5e363c53e34ba406818cd19ec9d80d8ba5f4e0ddd3f0840db14bbc2bb016a46805a891caee7a33444687b9bbd5c77a807cdc0e8546d4387628b"
     }
 }
