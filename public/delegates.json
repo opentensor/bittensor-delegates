@@ -232,5 +232,17 @@
         "url": "",
         "description": "Our mission is to create and incentivize documentation for Bittensor and it's adjacent topics, as well as facilitate the education of newcomers to the network.",
         "signature": "6a5c0160f545f122ec3d4e4233574040aba2de8aa94919bb19b3061d39d3303f010c4b52f878ed55a1293716827220020780d2d4064ee6be69921ee1452c3885"
+    },
+    "5EsbfxPcQaUrCDurUJ8Q5qDKNENNGziu3qHWUbXrcuY2pbNz": {
+        "name": "Church of Rao (COR)",
+        "url": "",
+        "description": "Welcome to the Church of Rao (COR), an open-source development group committed to furthering the Bittensor protocol.",
+        "signature": "e2bd4b853a829e97c3694647d9372f17cffdd2d3ada92259d09741c89bdd2b62b6e7aec6de87613c2bc9e035e20081a5e18a467a7fa401c758a4af0ba6a35a85"
+    },
+    "5FxML1waijYRDojdbn5zH9yv5YFeXYvvHu3Tk7MaJ1eGHTXq": {
+        "name": "Philanthrope",
+        "url": "",
+        "description": "Supporting democratized information, maintain and advance the Bittensor network, one hyphae at a time.",
+        "signature": "ca22dad6ca7c4742d2fdf3f7ce3c7ae798cd9ff51c99d38fd4b2badaa0b0a83c6d0400293cac222ff80d849ba28760049338ed718acf39abd187b9ec4a527988"
     }
 }
