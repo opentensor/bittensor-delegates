@@ -226,5 +226,11 @@
         "url": "https://www.gigaver.se",
         "description": "Extreme growth & experiments from giga corp. We use APY to TAO-pill new developers, builders and adopters. Visit our Bakery to learn more.",
         "signature": "00e5cd519110bbfe3dae9acd275d114c6c2a260997a1817a25303b9d578bdf7319e9e7179f0db58edef2ad42806cb38e289ba0030627a3b60e1e4352c2b9cb88"
+    },
+    "5FRcXG99SxJ9KyMcMFfdknkRSv4e73rszV8P151freZqQDS2": {
+        "name": "τensorwiki",
+        "url": "",
+        "description": "Our mission is to create and incentivize documentation for Bittensor and it's adjacent topics, as well as facilitate the education of newcomers to the network.",
+        "signature": "6a5c0160f545f122ec3d4e4233574040aba2de8aa94919bb19b3061d39d3303f010c4b52f878ed55a1293716827220020780d2d4064ee6be69921ee1452c3885"
     }
 }
