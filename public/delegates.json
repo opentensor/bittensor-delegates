@@ -232,5 +232,11 @@
         "url": "",
         "description": "Our mission is to create and incentivize documentation for Bittensor and it's adjacent topics, as well as facilitate the education of newcomers to the network.",
         "signature": "6a5c0160f545f122ec3d4e4233574040aba2de8aa94919bb19b3061d39d3303f010c4b52f878ed55a1293716827220020780d2d4064ee6be69921ee1452c3885"
+    },
+    "5FxML1waijYRDojdbn5zH9yv5YFeXYvvHu3Tk7MaJ1eGHTXq": {
+        "name": "Philanthrope",
+        "url": "",
+        "description": "Advance the mission of democratizing information, one hyphae at a time.  Support and develop Bittensor.",
+        "signature": "125bc15a161f7aa38dafd2232f661a5da45efd4090c6bda5500646bf4b702e37c8d635b506ce0777ad93062cb259d0e62a0a692b4570c6f73e0b3f7cbe4c6681"
     }
 }
