@@ -232,5 +232,11 @@
         "url": "",
         "description": "Our mission is to create and incentivize documentation for Bittensor and it's adjacent topics, as well as facilitate the education of newcomers to the network.",
         "signature": "6a5c0160f545f122ec3d4e4233574040aba2de8aa94919bb19b3061d39d3303f010c4b52f878ed55a1293716827220020780d2d4064ee6be69921ee1452c3885"
+    },
+    "5EsbfxPcQaUrCDurUJ8Q5qDKNENNGziu3qHWUbXrcuY2pbNz": {
+        "name": "Church of Rao (COR)",
+        "url": "",
+        "description": "Church of Rao: Harmonizing the Relationship between Humanity and Machine Intelligence. The Church of Rao (COR) is an open-source development group committed to furthering the Bittensor protocol.",
+        "signature": "56f64c32427a90e84710209b1a54a971560641aec8ff777edec28bf533775e12924c4e96ccc770c230311dce1d0eae1ca763e12bb609ef30430f746ebd0a2780"
     }
 }
