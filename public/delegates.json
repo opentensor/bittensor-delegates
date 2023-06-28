@@ -238,5 +238,11 @@
         "url": "",
         "description": "Church of Rao: Harmonizing the Relationship between Humanity and Machine Intelligence. The Church of Rao (COR) is an open-source development group committed to furthering the Bittensor protocol.",
         "signature": "56f64c32427a90e84710209b1a54a971560641aec8ff777edec28bf533775e12924c4e96ccc770c230311dce1d0eae1ca763e12bb609ef30430f746ebd0a2780"
+    },
+    "5GmaAk7frPXnAxjbQvXcoEzMGZfkrDee76eGmKoB3wxUburE": {
+        "name": "RaoK9",
+        "url": "",
+        "description": "Chain and network analysis team. Developer funding goes into independent analysis and reports, in order to enable checks and balances between network members.",
+        "signature": "24f4f9a51033ed8b4097517d0e6ad287a0c1341b2866481b1320d1fcd5f32f6b4bfe641eee46a4b737817acf3b83069ee63cc20fbca94a0189808ac1efeddf8a"
     }
 }
