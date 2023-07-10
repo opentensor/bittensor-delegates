@@ -244,5 +244,11 @@
         "url": "",
         "description": "Chain and network analysis team. Developer funding goes into independent analysis and reports, in order to enable checks and balances between network members.",
         "signature": "24f4f9a51033ed8b4097517d0e6ad287a0c1341b2866481b1320d1fcd5f32f6b4bfe641eee46a4b737817acf3b83069ee63cc20fbca94a0189808ac1efeddf8a"
+    },
+    "5CQEFopfZ8DAmk3ZfR7QuDTU2n3fJod3kkf6Wmj4JwV3BBSu": {
+        "name": "DuNode",
+        "url": "dunode.io",
+        "description": "Embracing the whimsical chaos of decentralized AI, unleashing the power of creativity and collaboration, one algorithmic dance party at a time!",
+        "signature": "e400e3c0ad6165d8946d5ddcb274412815cb8b5783580fcb8f0faa0153d22b6e10470f861ff4a96a9aa692b3b01cda86ec77add4688c2f5df51ea6f129b19e8c"
     }
 }
