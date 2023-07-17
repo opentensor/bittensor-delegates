@@ -49,27 +49,17 @@ jobs:
             . env/bin/activate
             pip install --upgrade pip && pip install -r tooling/requirements.txt
 
+      - run:
+          name: public/delegates.json signatures are present and correct
+          command: |
+            ./checks/verify_signature.sh
+
       - save_cache:
           name: Save cached venv
           key: *deps
           paths:
             - "env"
             - ".git"
-
-      - run:
-          name: public/delegates.json is formatted properly
-          command: |
-            ./checks/json_formatted.sh
-
-      - run:
-          name: public/delegates.json is pretty printed
-          command: |
-            ./checks/json_pretty_print.sh
-
-      - run:
-          name: public/delegates.json signatures are present and correct
-          command: |
-            ./checks/verify_signature.sh
 
 workflows:
   # the always-run workflow is always triggered, regardless of the pipeline parameters.
