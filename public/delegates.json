@@ -250,5 +250,11 @@
         "url": "dunode.io",
         "description": "Embracing the whimsical chaos of decentralized AI, unleashing the power of creativity and collaboration, one algorithmic dance party at a time!",
         "signature": "e400e3c0ad6165d8946d5ddcb274412815cb8b5783580fcb8f0faa0153d22b6e10470f861ff4a96a9aa692b3b01cda86ec77add4688c2f5df51ea6f129b19e8c"
+    },
+    "5CaCUPsSSdKWcMJbmdmJdnWVa15fJQuz5HsSGgVdZffpHAUa": {
+        "name": "Athena Nodes", 
+        "url": "https://athenanodes.com", 
+        "description": "Premier Bittensor Multi-Subnet Validator from a company operating validating and mining infrastructure on various blockchain networks. We have been active on Bittensor since November 2022, with near zero down-time. More information at https://athenanodes.com/.",
+        "signature": "2ef54045de1d9b89988518c92e165edf704192f88f18022565f497b389c39206f621bb9bc6d2d33ac8a9cca05d6b2d8fc9f899b390451140968b15b8d9c13280"
     }
 }
