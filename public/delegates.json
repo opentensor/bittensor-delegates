@@ -256,5 +256,11 @@
         "url": "www.prvalidator.com",
         "description": "A professional media validator dedicated to securing top-tier coverage in the world’s most recognized publications building Bittensor’s brand equity and creating global awareness of $TAO.",
         "signature": "fe65e76a9f42049715585180500213c6f0535b8b25911b957921bdfb5a20156d6de68dc2633dbc5ce1d0ab9ef386d566687ac3d86f6988141b34cd24c0f13488"
+    },
+    "5FFM6Nvvm78GqyMratgXXvjbqZPi7SHgSQ81nyS96jBuUWgt": {
+        "name": "Bittensor Guru Podcast",
+        "url": "bittensor.guru",
+        "description": "The official validator of the Bittensor Guru Podcast. Hosted by @KeithSingery",
+        "signature": "2ac9561ec8bd8e8f4b3048c9395ad78c2dcdbfdd79f176940c9e6e9410bbd511b0f5b76c32ccf24d80fba5b58d1c8d2ce14a96a64bc4f4e241ae51bf18f72788"
     }
 }
