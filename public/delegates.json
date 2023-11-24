@@ -102,10 +102,10 @@
         "signature": "d6803522f6e61a9dec5261a6a500b733d233b373457382fc3713af21c560604f6e50c4999f286cfa6012bcea66e51223722b355dd69ba54a472f2c6ca52da08f"
     },
     "5Fq5v71D4LX8Db1xsmRSy6udQThcZ8sFDqxQFwnUZ1BuqY5A": {
-        "name": "mnrv.ai",
-        "url": "https://www.mnrv.ai",
-        "description": "mnrv.ai, the godess of wisdom, providing resources, information, and education to the Bittensor community ",
-        "signature": "748e8645a55a25851e3dac030d4afd46678655c1dd17881fa5885cebfb6fbf3734453b5214472714260cacd85d6c04f25ffc9e425c9200f4d49e5d7a5fc87280"
+        "name": "NorthTensor",
+        "url": "https://northtensor.ai",
+        "description": "Developer, Advocate, and Incubator for Decentralized AI.",
+        "signature": "28e221d7128e48a3cb85dbcb223bd56cb09cb55540263573783bf1cef63be32ee81246bd1d75c865580da732094053a6dad14929b17e659b6e0237412b66a487"
     },
     "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp": {
         "name": "Owl Ventures",
@@ -262,6 +262,12 @@
         "url": "www.prvalidator.com",
         "description": "A professional media validator dedicated to securing top-tier coverage in the world’s most recognized publications building Bittensor’s brand equity and creating global awareness of $TAO.",
         "signature": "fe65e76a9f42049715585180500213c6f0535b8b25911b957921bdfb5a20156d6de68dc2633dbc5ce1d0ab9ef386d566687ac3d86f6988141b34cd24c0f13488"
+    },
+    "5G3f8VDTT1ydirT3QffnV2TMrNMR2MkQfGUubQNqZcGSj82T": {
+        "name": "TAO Community Marketing",
+        "url": "www.taocommunitymarketing.com",
+        "description": "The marketing validator run by the community",
+        "signature": "10b16b8223b2508d6f3e5b09ab4db53e1e338b6271d1689b58ca6f9b257e8c18511cc851bfcc3a05fb4e6de7c389b89886cc0623fb6d199fa003ae6f8313cb89"
     },
     "5CXC2quDN5nUTqHMkpP5YRp2atYYicvtUghAYLj15gaUFwe5": {
         "name": "Kooltek68",
