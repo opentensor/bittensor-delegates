@@ -251,6 +251,12 @@
         "description": "Embracing the whimsical chaos of decentralized AI, unleashing the power of creativity and collaboration, one algorithmic dance party at a time!",
         "signature": "e400e3c0ad6165d8946d5ddcb274412815cb8b5783580fcb8f0faa0153d22b6e10470f861ff4a96a9aa692b3b01cda86ec77add4688c2f5df51ea6f129b19e8c"
     },
+    "5CaCUPsSSdKWcMJbmdmJdnWVa15fJQuz5HsSGgVdZffpHAUa": {
+        "name": "Athena Nodes", 
+        "url": "https://athenanodes.com", 
+        "description": "Premier Bittensor Multi-Subnet Validator from a company operating validating and mining infrastructure on various blockchain networks. We have been active on Bittensor since November 2022, with near zero down-time. More information at https://athenanodes.com/.",
+        "signature": "2ef54045de1d9b89988518c92e165edf704192f88f18022565f497b389c39206f621bb9bc6d2d33ac8a9cca05d6b2d8fc9f899b390451140968b15b8d9c13280"
+    },
     "5FFM6Nvvm78GqyMratgXXvjbqZPi7SHgSQ81nyS96jBuUWgt": {
         "name": "PRvalidator",
         "url": "www.prvalidator.com",
@@ -262,5 +268,11 @@
         "url": "https://www.taoshi.io/",
         "description": "Build maintain and advance a decentralized request layer built for every subnet",
         "signature": "32d25227af78fa5d39ee71a5f3e8fc8066e3d826d101f2587e9a12974fbf26758c1e40c497ad7732da2a2cb1490227cc58e8bfcd8b2f6306b7af630bd32aa68f"
+    },
+    "5CXC2quDN5nUTqHMkpP5YRp2atYYicvtUghAYLj15gaUFwe5": {
+        "name": "Kooltek68",
+        "url": "https://linktr.ee/datalac",
+        "description": "Imagine the World with mass adoption of Artificial Intelligence applications, through the connection of Bittensor Network, together fight for a Better World.",
+        "signature": "bca043d9d918d503864379a7fd8c9daa2cca83a8290121f94b55d6a352e332704642622b7ad40a30b945b952b224c5e92ea872f9d30200e6c2bf566303d24d83"
     }
 }
