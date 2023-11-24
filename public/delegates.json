@@ -263,6 +263,12 @@
         "description": "A professional media validator dedicated to securing top-tier coverage in the world’s most recognized publications building Bittensor’s brand equity and creating global awareness of $TAO.",
         "signature": "fe65e76a9f42049715585180500213c6f0535b8b25911b957921bdfb5a20156d6de68dc2633dbc5ce1d0ab9ef386d566687ac3d86f6988141b34cd24c0f13488"
     },
+    "5H8TruSGmhD6m6YfqXNUnU7Z61K7j8hSs2Krtu3eTLMoz3HU": {
+        "name": "τaoshi validator",
+        "url": "https://www.taoshi.io/",
+        "description": "Build maintain and advance a decentralized request layer built for every subnet",
+        "signature": "32d25227af78fa5d39ee71a5f3e8fc8066e3d826d101f2587e9a12974fbf26758c1e40c497ad7732da2a2cb1490227cc58e8bfcd8b2f6306b7af630bd32aa68f"
+    },
     "5G3f8VDTT1ydirT3QffnV2TMrNMR2MkQfGUubQNqZcGSj82T": {
         "name": "TAO Community Marketing",
         "url": "www.taocommunitymarketing.com",
@@ -280,5 +286,11 @@
         "url": "https://pops.one",
         "description": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects.",
         "signature": "5608316f3081bfe5d0e3a7db6c3bfd459f6b87e02d657de941e6a760f8688f23ef30784691a1893d1fd8079dd4f6082d0d655ca507aa4797fee9844547d13a88"
+    },
+    "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN": {
+        "name": "Bittensor Guru",
+        "url": "https://bittensor.guru",
+        "description": "Official validator of the Bittensor Guru Podcast",
+        "signature": "caf2c6b7b0d2a341bcd00e632cf22c33d53e2523dffcd3a151db9eeadd88300545cbb2187ba0b20e5bfe09c2b17bbf34630c46defd8f8d27ab508736fd18a284"    
     }
 }
