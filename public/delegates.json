@@ -184,13 +184,7 @@
         "url": "https://polychain.capital/",
         "description": "Polychain is an investment firm committed to exceptional returns for investors through actively managed portfolios of blockchain assets.",
         "signature": "f41e815033e595aa70fbe42e8dfd91eaa3ccdbc948b63811baf9eac765699b30cac9aad7abe330eeaf3969cc504a4c1255f1e69bee807c2d989518b8f5413c8d"
-    },
-    "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
-        "name": "τaosτaτs and BitAPAI",
-        "url": "taostats.io",
-        "description": "Supporting bittensor through API access, data provision, statistics and analytics.",
-        "signature": "823d94772361ef1c2e1e20a0d8406feb29db5b8f767e86437f6155265f91f86d5f25f5436265a50cd5e46eb6503b630d3c19bd52425d23b4f0000420303c228c"
-    },
+    },    
     "5Dkv87qjGGF42SNhDAep6WZp65E29c2vUPUfDBGDNevENCMs": {
         "name": "MycoNet",
         "url": "",
@@ -292,5 +286,11 @@
         "url": "https://bittensor.guru",
         "description": "Official validator of the Bittensor Guru Podcast",
         "signature": "caf2c6b7b0d2a341bcd00e632cf22c33d53e2523dffcd3a151db9eeadd88300545cbb2187ba0b20e5bfe09c2b17bbf34630c46defd8f8d27ab508736fd18a284"    
+    },
+    "5DCQw11aUW7bozAKkB8tB5bHqAjiu4F6mVLZBdgJnk8dzUoV": {
+        "name": "τaosτaτs and Corcel",
+        "url": "taostats.io",
+        "description": "Supporting bittensor through API access, data provision, statistics and analytics.",
+        "signature": "0a89e19acb4c8cabfbd9bc5c939124376408ba31b6a71fe424601f152164d14a76acd2675c1f3e1b2b574d114ae0c18f0d32b676a14e39f446092d6529767e80"
     }
 }
