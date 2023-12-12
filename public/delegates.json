@@ -252,8 +252,8 @@
         "signature": "e400e3c0ad6165d8946d5ddcb274412815cb8b5783580fcb8f0faa0153d22b6e10470f861ff4a96a9aa692b3b01cda86ec77add4688c2f5df51ea6f129b19e8c"
     },
     "5CaCUPsSSdKWcMJbmdmJdnWVa15fJQuz5HsSGgVdZffpHAUa": {
-        "name": "Athena Nodes", 
-        "url": "https://athenanodes.com", 
+        "name": "Athena Nodes",
+        "url": "https://athenanodes.com",
         "description": "Premier Bittensor Multi-Subnet Validator from a company operating validating and mining infrastructure on various blockchain networks. We have been active on Bittensor since November 2022, with near zero down-time. More information at https://athenanodes.com/.",
         "signature": "2ef54045de1d9b89988518c92e165edf704192f88f18022565f497b389c39206f621bb9bc6d2d33ac8a9cca05d6b2d8fc9f899b390451140968b15b8d9c13280"
     },
@@ -291,6 +291,12 @@
         "name": "Bittensor Guru",
         "url": "https://bittensor.guru",
         "description": "Official validator of the Bittensor Guru Podcast",
-        "signature": "caf2c6b7b0d2a341bcd00e632cf22c33d53e2523dffcd3a151db9eeadd88300545cbb2187ba0b20e5bfe09c2b17bbf34630c46defd8f8d27ab508736fd18a284"    
+        "signature": "caf2c6b7b0d2a341bcd00e632cf22c33d53e2523dffcd3a151db9eeadd88300545cbb2187ba0b20e5bfe09c2b17bbf34630c46defd8f8d27ab508736fd18a284"
+    },
+    "5Hh3ShaNW9irCe5joBLCeFD5Fxb2fJ6gFAgrsPmoz3JkzqvJ": {
+        "name": "BlockShark",
+        "url": "https://www.blockshark.net/",
+        "description": "Your reliable partner for staking on Bittensor. We are expert in running high-end machine for validators and AI",
+        "signature": "d2c0aed073a026a5dbd8c458b9dd412fe3d6647fecd3b8f007cf184f7906245106aee4b210b5b582771dca149e5aa464630100de7f9862daacfa1f67ddde1388"
     }
 }
