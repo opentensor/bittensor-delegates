@@ -298,5 +298,11 @@
         "url": "https://love.cosimo.fund",
         "description": "Love validator exists to accelerate the advent of open source AI",
         "signature": "b8e6a4db29440ac8193fc4bba2e21dce2b850e61f4815c8cb20dc4785e9bda5078bcac37c525e8db033455150e57dc6fe65541f5e31fdbaf44440c2b786c4685"
+    },
+    "5Hh3ShaNW9irCe5joBLCeFD5Fxb2fJ6gFAgrsPmoz3JkzqvJ": {
+        "name": "BlockShark",
+        "url": "https://www.blockshark.net/",
+        "description": "Your reliable partner for staking on Bittensor. We are expert in running high-end machine for validators and AI",
+        "signature": "d2c0aed073a026a5dbd8c458b9dd412fe3d6647fecd3b8f007cf184f7906245106aee4b210b5b582771dca149e5aa464630100de7f9862daacfa1f67ddde1388"
     }
 }
