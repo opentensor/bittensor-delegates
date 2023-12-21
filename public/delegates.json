@@ -185,12 +185,6 @@
         "description": "Polychain is an investment firm committed to exceptional returns for investors through actively managed portfolios of blockchain assets.",
         "signature": "f41e815033e595aa70fbe42e8dfd91eaa3ccdbc948b63811baf9eac765699b30cac9aad7abe330eeaf3969cc504a4c1255f1e69bee807c2d989518b8f5413c8d"
     },
-    "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
-        "name": "τaosτaτs and BitAPAI",
-        "url": "taostats.io",
-        "description": "Supporting bittensor through API access, data provision, statistics and analytics.",
-        "signature": "823d94772361ef1c2e1e20a0d8406feb29db5b8f767e86437f6155265f91f86d5f25f5436265a50cd5e46eb6503b630d3c19bd52425d23b4f0000420303c228c"
-    },
     "5Dkv87qjGGF42SNhDAep6WZp65E29c2vUPUfDBGDNevENCMs": {
         "name": "MycoNet",
         "url": "",
@@ -304,5 +298,11 @@
         "url": "https://dogecoin.com/",
         "description": "much power, many AI, go bittensor!",
         "signature": "503b7c0cf8fb8fdc074392576f2e138277983fa868dc158abadb685dc2ec1a5385530322882537b2eaccdf4f26491f2fbb58d00a7daaa64e2b1cdb691cf6bc8e"
+    },
+    "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
+        "name": "τaosτaτs and Corcel",
+        "url": "taostats.io",
+        "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.",
+        "signature": "2e2dd0c5f3a3945f29d1be304e64f931c04a23aba7d383d01cd16ea6ca6546002fe3bd95cf8f12cae1fbb7d18d9910b834f6573db219de3ed84073a4e1552e89"
     }
 }
