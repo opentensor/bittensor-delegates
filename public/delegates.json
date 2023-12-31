@@ -304,5 +304,11 @@
         "url": "taostats.io",
         "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.",
         "signature": "2e2dd0c5f3a3945f29d1be304e64f931c04a23aba7d383d01cd16ea6ca6546002fe3bd95cf8f12cae1fbb7d18d9910b834f6573db219de3ed84073a4e1552e89"
+    },
+    "5CrW7kAXzjEru37LK1RsoU5qCSSGcnCY9GQQp9eRRfv9zjm3": {
+        "name": "tarabukinivan",
+        "url": "https://tarabukinivan.github.io/personal/",
+        "description": "subnet Validator",
+        "signature": "a4a6f00e6436d1252788c57267c8c60b16ebb195c5cfe7a59f2e43b17e7af94954f9b624d60018d92dd6633b4e94dcb4587b27da3b87899b3b9c82c0848adf84" 
     }
 }
