@@ -295,9 +295,9 @@
     },
     "5FKstHjZkh4v3qAMSBa1oJcHCLjxYZ8SNTSz1opTv4hR7gVB": {
         "name": "doge",
-        "url": "https://dogecoin.com/",
-        "description": "much power, many AI, go bittensor!",
-        "signature": "bca872c0bed1fb278c31c7c305dbe798da0e2e375dcad59aba50ecd5aa08550feda060228aba40895c0800fe5501f0d1e1bdf07f13cc8884d2d3b7718263f986"
+        "url": "dogecoin.com",
+        "description": "much power, many AI! go bittensor!",
+        "signature": "10964d66fc4ae2ad8874251afb2d38d95a3024d25d3047467cb663ee21f5947a67777ed82903e4df02b1d2288fe11bd9628c52174b9d6b070e761a8479125b87"
     },
     "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
         "name": "τaosτaτs and Corcel",
