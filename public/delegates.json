@@ -310,5 +310,11 @@
         "url": "https://twitter.com/taofuxyz",
         "description": "Taofu unlocks liquidity and utility by bringing liquid staked TAO outside of Bittensor",
         "signature": "aaafd3496650a56f798cc587b5b7d372cec8e826a332a34213c1a6ee7be2b5122318858ee73421535d04186cc6976ae5452c6cd1aaf299a307d86d3c52b4a986"
+    },
+    "5HbLYXUBy1snPR8nfioQ7GoA9x76EELzEq9j7F32vWUQHm1x": {
+        "name": "Tensorplex Labs",
+        "url": "https://twitter.com/TensorplexLabs",
+        "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
+        "signature": "7a997682e7545fd14847c78abf810e9c49a23ef4297d24f4238c0edd0463934780f6831d59972d56ab5bc41d6224b59c21ed95065791632b8aca180ade22af81"
     }
 }
