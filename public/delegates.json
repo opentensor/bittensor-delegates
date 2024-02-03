@@ -316,5 +316,11 @@
         "url": "https://twitter.com/TensorplexLabs",
         "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
         "signature": "7a997682e7545fd14847c78abf810e9c49a23ef4297d24f4238c0edd0463934780f6831d59972d56ab5bc41d6224b59c21ed95065791632b8aca180ade22af81"
+    },
+    "5E2VSsWWXkBGCn4mi8RHXYQEF2wLXky6ZsNcTKnmEqaurzTE": {
+        "name": "Sentinel",
+        "url": "",
+        "description": "Sentinel, as a dedicated Bittensor validator aspires to elevate the bittensor network's integrity with an ambition to foster a community of miners contributing in the network’s continuous expansion.",
+        "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     }
 }
