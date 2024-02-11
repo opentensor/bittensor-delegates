@@ -322,5 +322,11 @@
         "url": "",
         "description": "Sentinel, as a dedicated Bittensor validator aspires to elevate the bittensor network's integrity with an ambition to foster a community of miners contributing in the network’s continuous expansion.",
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
+    },
+    "5G9WcjZvv2n6qLdpsMqEDHwvtondiiZJnDmbrGrAyC7B573o": {
+        "name": "Polyquid",
+        "url": "https://polyquid.org/",
+        "description": "Dedicated to enhancing the security of the Bittensor network while also committed to developing a wide array of tools to empower the community",
+        "signature": "38c657789c5ac9c86b6cc39e95e281615fc6ca2810720d7292fe62a863d3cb32c8cd1d482810e3873ac5ea5d064385d4474c1bb4a80a52de09605292c58bf282"
     }
 }
