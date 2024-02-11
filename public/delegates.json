@@ -287,6 +287,12 @@
         "description": "Official validator of the Bittensor Guru Podcast",
         "signature": "caf2c6b7b0d2a341bcd00e632cf22c33d53e2523dffcd3a151db9eeadd88300545cbb2187ba0b20e5bfe09c2b17bbf34630c46defd8f8d27ab508736fd18a284"
     },
+    "5DkwuzLYGrKNhYU9V7K99BAe6zprq8Z96oCgaymh2HeHmW5a": {
+        "name": "Formless Technologies",
+        "url": "https://formless.tech",
+        "description": "We build and test fun things.",
+        "signature": "e22acd56d236894cd9db7b93a27978d113aa2caa50770e193aef3f616b360043add46c2997781871eb0343fd016ebcfe439596ae1415bb9d93920090f789328d"
+    },
     "5Hh3ShaNW9irCe5joBLCeFD5Fxb2fJ6gFAgrsPmoz3JkzqvJ": {
         "name": "BlockShark",
         "url": "https://www.blockshark.net/",
