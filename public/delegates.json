@@ -322,5 +322,11 @@
         "url": "",
         "description": "Sentinel, as a dedicated Bittensor validator aspires to elevate the bittensor network's integrity with an ambition to foster a community of miners contributing in the network’s continuous expansion.",
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
+    },
+    "5EFiiNVJMuSBYP7JaQVdcBGa2bdtLbcUSsYjrxtk2rWJh1Wo": {
+        "name": "CrypticMax",
+        "url": "",
+        "description": "Empower the Network, Secure the Future, Strengthen Bittensor",
+        "signature": "662e325beedb42d6b7429e4ce7f0536cd71e3adee31b7920b24bdac7f57cbe7777d63e5c2b387bcd05570b3ab9c8fae8568e3f2256e243522247a73d47566e87"
     }
 }
