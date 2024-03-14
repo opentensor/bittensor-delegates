@@ -322,5 +322,11 @@
         "url": "",
         "description": "Sentinel, as a dedicated Bittensor validator aspires to elevate the bittensor network's integrity with an ambition to foster a community of miners contributing in the network’s continuous expansion.",
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
+    },
+    "5FviM2Ak817GcYBJWxhVa1nEcvyTFdrbCQfbvnpfrfzKKTSy": {
+        "name": "AIgentX",
+        "url": "https://aigentx.xyz/",
+        "description": "AIgentX services for Bittensor",
+        "signature": "f8cb6c7fff835f030c8068b830670b88624bdd003864245e17b9bd911e73062eba64881f89a3151451bf4128479829203d9d813e93f12483442b62ce0da50686"
     }
 }
