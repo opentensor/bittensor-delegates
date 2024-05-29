@@ -300,10 +300,10 @@
         "signature": "7a3bc6a840d8593853c27188f59200418d8884b94b3ad28cb7b37b80bffd1f3b23b7eed4b1d9c77b28b05b2bd1952c5cbe3d27ba190a9418407ce1e899e5ac8b"
     },
     "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
-        "name": "τaosτaτs and Corcel",
+        "name": "Taostats & Corcel",
         "url": "taostats.io",
         "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.",
-        "signature": "2e2dd0c5f3a3945f29d1be304e64f931c04a23aba7d383d01cd16ea6ca6546002fe3bd95cf8f12cae1fbb7d18d9910b834f6573db219de3ed84073a4e1552e89"
+        "signature": "885fbfad0415c074e496738ff33d79fccaaf1cf4fdd0bd8490c738824fa6f7770af6eb839c30b8374206fb72e75809d79ce199c489d4abe5e6f29d1b7b154a86"
     },
     "5ELREhApbCahM7FyGLM1V9WDsnnjCRmMCJTmtQD51oAEqwVh": {
         "name": "Taofu Protocol",
@@ -324,9 +324,9 @@
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     },
     "5GsenVhBvgEG4xiiKUjcssfznHYVm1TqPbSbr3ixBW81ZVjo": {
-         "name": "vote NO dTAO 🤡",
-         "url": "https://twitter.com/karl_anons",
-         "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
-         "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
+        "name": "vote NO dTAO 🤡",
+        "url": "https://twitter.com/karl_anons",
+        "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
+        "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
     }
 }
