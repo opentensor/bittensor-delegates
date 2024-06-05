@@ -324,9 +324,15 @@
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     },
     "5GsenVhBvgEG4xiiKUjcssfznHYVm1TqPbSbr3ixBW81ZVjo": {
-         "name": "vote NO dTAO 🤡",
-         "url": "https://twitter.com/karl_anons",
-         "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
-         "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
+        "name": "vote NO dTAO 🤡",
+        "url": "https://twitter.com/karl_anons",
+        "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
+        "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
+    },
+    "5F27Eqz2PhyMtGMEce898x31DokNqRVxkm5AhDDe6rDGNvoY": {
+        "name": "Love",
+        "url": "https://love.cosimo.fund",
+        "description": "Love validator exists to accelerate open source AI and be good stewards of the Bittensorr network",
+        "signature": "c221a3de3be031c149a7be912b3b75e0355605f041dc975153302b23b4d93e45e9cc7453532491e92076ccd333a4c1f95f4a2229aae8f4fcfb88e5dec3f14c87"
     }
 }
