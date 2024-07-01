@@ -334,5 +334,11 @@
         "url": "https://cortex.foundation/",
         "description": "Cortex Foundation is committed to advancing the integration of decentralized AI. Our validator is designed for transparency, reliability, and community engagement.",
         "signature": "7a6274ff6b0f7ddca97e37ef4a9b90781012ff3cf7baa3159f6feaafc43c557975aad324ea608d6b8abeb21f8f3ca2595e54b81a7564574d0242b803d969618a"
+    },
+    "5FnB2QdWyAmLz3TGtLbnLRogNUzSR1rt8SKQcV1gC4d3w42L": {
+        "name": "Miner's Union",
+        "url": "https://minersunion.ai",
+        "description": "Subnet Weight Allocation Votes, Dedicated Discord with Experienced Miner, Personalized Miner Tracker Tools, Whitehat Program Participation.",
+        "signature": "160c9c7d3c94d1580a3791ce145e08e7e6d8b0283676396bf4fc029220a5d929ef91b967c432e39a1c885b554e7fbd136d4e0987596d36ba5087cc1d259c4585"
     }
 }
