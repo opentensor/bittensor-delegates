@@ -179,11 +179,11 @@
         "description": "Powered by the Neuron Holders community - shared rewards, additional benefits, infinite possibilities - join and build with us!",
         "signature": "da31e56dd78cde449a1dd9592f0b53eb8c3662674b745a05ff916e80a1be933e86efbccb7f7c9b81d7c0bb14d13fb4a6bf8484c3619224e689de82072b5d9a87"
     },
-    "5CaNj3BarTHotEK1n513aoTtFeXcjf6uvKzAyzNuv9cirUoW": {
+    "5FxcZraZACr4L78jWkcYe3FHdiwiAUzrKLVtsSwkvFobBKqq": {
         "name": "Polychain",
         "url": "https://polychain.capital/",
         "description": "Polychain is an investment firm committed to exceptional returns for investors through actively managed portfolios of blockchain assets.",
-        "signature": "f41e815033e595aa70fbe42e8dfd91eaa3ccdbc948b63811baf9eac765699b30cac9aad7abe330eeaf3969cc504a4c1255f1e69bee807c2d989518b8f5413c8d"
+        "signature": "14b58d555d1e86c05f3f90d122944f5e1aead174b02372dc97b3fa05f338985cbe309f290cfb3bab9407ae878cfd0d1cf4db331d9a1d800ebc66202472044483"
     },
     "5Dkv87qjGGF42SNhDAep6WZp65E29c2vUPUfDBGDNevENCMs": {
         "name": "MycoNet",
@@ -324,15 +324,21 @@
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     },
     "5GsenVhBvgEG4xiiKUjcssfznHYVm1TqPbSbr3ixBW81ZVjo": {
-        "name": "vote NO dTAO 🤡",
-        "url": "https://twitter.com/karl_anons",
-        "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
-        "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
+         "name": "vote NO dTAO 🤡",
+         "url": "https://twitter.com/karl_anons",
+         "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
+         "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
+    },
+    "5DM7CPqPKtMSADhFKYsstsCS4Tm4Kd6PMXoh6DdqY4MtxmtX": {
+        "name": "Corτex Foundaτion",
+        "url": "https://cortex.foundation/",
+        "description": "Cortex Foundation is committed to advancing the integration of decentralized AI. Our validator is designed for transparency, reliability, and community engagement.",
+        "signature": "7a6274ff6b0f7ddca97e37ef4a9b90781012ff3cf7baa3159f6feaafc43c557975aad324ea608d6b8abeb21f8f3ca2595e54b81a7564574d0242b803d969618a"
     },
     "5F27Eqz2PhyMtGMEce898x31DokNqRVxkm5AhDDe6rDGNvoY": {
         "name": "Love",
         "url": "https://love.cosimo.fund",
-        "description": "Love validator exists to accelerate open source AI and be good stewards of the Bittensorr network",
+        "description": "Love validator exists to accelerate the tenets of open-source Artificial Intelligence. Powered by Cosimo Capital.",
         "signature": "c221a3de3be031c149a7be912b3b75e0355605f041dc975153302b23b4d93e45e9cc7453532491e92076ccd333a4c1f95f4a2229aae8f4fcfb88e5dec3f14c87"
     }
 }
