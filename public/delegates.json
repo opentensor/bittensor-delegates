@@ -340,5 +340,11 @@
         "url": "https://love.cosimo.fund",
         "description": "Love validator exists to accelerate open source AI and be good stewards of the Bittensorr network",
         "signature": "c221a3de3be031c149a7be912b3b75e0355605f041dc975153302b23b4d93e45e9cc7453532491e92076ccd333a4c1f95f4a2229aae8f4fcfb88e5dec3f14c87"
+    },
+    "5Hb63SvXBXqZ8zw6mwW1A39fHdqUrJvohXgepyhp2jgWedSB": {
+        "name": "TAO Miner's Union - LOCAL 127.0.0.1",
+        "url": "https://x.com/taocouncil",
+        "description": "A joint council focused on collective efficiency and security of operators on Bittensor. The largest and strongest voice for miners. We are the other 41%",
+        "signature": "103d9223bb2ec6428f59f83d9ef8bab210b66828305910a4aac342c38f754f28fc28b8fd8a4f72751f60189ba5510e309280e981cd077427375c9972038ae68c"
     }
 }
