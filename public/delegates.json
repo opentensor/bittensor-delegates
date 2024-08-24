@@ -340,5 +340,11 @@
         "url": "https://love.cosimo.fund",
         "description": "Love validator exists to accelerate open source AI and be good stewards of the Bittensorr network",
         "signature": "c221a3de3be031c149a7be912b3b75e0355605f041dc975153302b23b4d93e45e9cc7453532491e92076ccd333a4c1f95f4a2229aae8f4fcfb88e5dec3f14c87"
+    },
+    "5Hb63SvXBXqZ8zw6mwW1A39fHdqUrJvohXgepyhp2jgWedSB": {
+        "name": "Miner's Union Validator",
+        "url": "https://minersunion.ai",
+        "description": "The first Bittensor validator that empowers you to choose which subnets to incentivize. Committed to transparency and integrity, we ensure fair and honest validation processes that contribute to the growth and strength of the network.",
+        "signature": "a21646f77683b77d315de7f8fbac599fd5938b140b7fcd9592937bb583532a09bbf1fdae8b45543a2a1d257d158e3b18ecedcee23072cdae42237f3b5546d888"
     }
 }
