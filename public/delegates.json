@@ -299,11 +299,11 @@
         "description": "Bridging Bittensor to a billion users",
         "signature": "7a3bc6a840d8593853c27188f59200418d8884b94b3ad28cb7b37b80bffd1f3b23b7eed4b1d9c77b28b05b2bd1952c5cbe3d27ba190a9418407ce1e899e5ac8b"
     },
-    "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
-        "name": "τaosτaτs and Corcel",
-        "url": "taostats.io",
-        "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.",
-        "signature": "2e2dd0c5f3a3945f29d1be304e64f931c04a23aba7d383d01cd16ea6ca6546002fe3bd95cf8f12cae1fbb7d18d9910b834f6573db219de3ed84073a4e1552e89"
+    "5GKH9FPPnWSUoeeTJp19wVtd84XqFW4pyK2ijV2GsFbhTrP1": {
+        "name": "Taostats & Corcel", 
+        "url": "taostats.io", 
+        "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.", 
+        "signature": "ead6693b4c3ec0e9638041b262862bc5f7596cbd56fdded52c106cccba6d1a517b7a46c131bf835cf8194f5d13dea269953e57babc3c991dcfc257afc30baa81"
     },
     "5ELREhApbCahM7FyGLM1V9WDsnnjCRmMCJTmtQD51oAEqwVh": {
         "name": "Taofu Protocol",
