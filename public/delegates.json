@@ -300,9 +300,9 @@
         "signature": "7a3bc6a840d8593853c27188f59200418d8884b94b3ad28cb7b37b80bffd1f3b23b7eed4b1d9c77b28b05b2bd1952c5cbe3d27ba190a9418407ce1e899e5ac8b"
     },
     "5GKH9FPPnWSUoeeTJp19wVtd84XqFW4pyK2ijV2GsFbhTrP1": {
-        "name": "Taostats & Corcel", 
-        "url": "taostats.io", 
-        "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.", 
+        "name": "Taostats & Corcel",
+        "url": "taostats.io",
+        "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.",
         "signature": "ead6693b4c3ec0e9638041b262862bc5f7596cbd56fdded52c106cccba6d1a517b7a46c131bf835cf8194f5d13dea269953e57babc3c991dcfc257afc30baa81"
     },
     "5ELREhApbCahM7FyGLM1V9WDsnnjCRmMCJTmtQD51oAEqwVh": {
@@ -324,10 +324,10 @@
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     },
     "5GsenVhBvgEG4xiiKUjcssfznHYVm1TqPbSbr3ixBW81ZVjo": {
-         "name": "vote NO dTAO 🤡",
-         "url": "https://twitter.com/karl_anons",
-         "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
-         "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
+        "name": "vote NO dTAO 🤡",
+        "url": "https://twitter.com/karl_anons",
+        "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
+        "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
     },
     "5DM7CPqPKtMSADhFKYsstsCS4Tm4Kd6PMXoh6DdqY4MtxmtX": {
         "name": "Corτex Foundaτion",
@@ -346,5 +346,11 @@
         "url": "https://minersunion.ai",
         "description": "The first Bittensor validator that empowers you to choose which subnets to incentivize. Committed to transparency and integrity, we ensure fair and honest validation processes that contribute to the growth and strength of the network.",
         "signature": "a21646f77683b77d315de7f8fbac599fd5938b140b7fcd9592937bb583532a09bbf1fdae8b45543a2a1d257d158e3b18ecedcee23072cdae42237f3b5546d888"
+    },
+    "5CHuEaJDdFbEtpyjR4JddcANRb9JyqxD6zcT25BVgyMJ8J2r": {
+        "name": "TaoXnet",
+        "url": "https://taoxnet.com",
+        "description": "Our project delivers a fast, reliable, and interactive real-time processing explorer for the Bittensor blockchain, ensuring seamless network navigation and data integrity.",
+        "signature": "84f1afaadac783beaf1fac479240ac0e539ba99a063f6ea64071661804127543b32c47dd7e963ff1ef7fc338af6b73683c2c4135bf220dde24d96240c99f7780"
     }
 }
