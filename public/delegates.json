@@ -1,4 +1,10 @@
 {
+    "5GP7c3fFazW9GXK8Up3qgu2DJBk8inu4aK9TZy3RuoSWVCMi": {
+        "name": "Datura",
+        "url": "https://datura.ai/",
+        "description": "Bridging Bittensor to a billion users",
+        "signature": "ea93b97b1bd9827299e2aad8bdc3d58ca510444f5c27fda27fd9ef3a21f0836dc0d9ab01922becf9312488af224188c6d7f33b29bf6cad8ace17caccda198f89"
+    },
     "5ECvRLMj9jkbdM4sLuH5WvjUe87TcAdjRfUj5onN4iKqYYGm": {
         "name": "Vune",
         "url": "https://fairchild.dev",
@@ -292,12 +298,6 @@
         "url": "https://www.blockshark.net/",
         "description": "Your reliable partner for staking on Bittensor. We are expert in running high-end machine for validators and AI",
         "signature": "d2c0aed073a026a5dbd8c458b9dd412fe3d6647fecd3b8f007cf184f7906245106aee4b210b5b582771dca149e5aa464630100de7f9862daacfa1f67ddde1388"
-    },
-    "5FKstHjZkh4v3qAMSBa1oJcHCLjxYZ8SNTSz1opTv4hR7gVB": {
-        "name": "Datura",
-        "url": "datura.ai",
-        "description": "Bridging Bittensor to a billion users",
-        "signature": "7a3bc6a840d8593853c27188f59200418d8884b94b3ad28cb7b37b80bffd1f3b23b7eed4b1d9c77b28b05b2bd1952c5cbe3d27ba190a9418407ce1e899e5ac8b"
     },
     "5GKH9FPPnWSUoeeTJp19wVtd84XqFW4pyK2ijV2GsFbhTrP1": {
         "name": "Taostats & Corcel", 
