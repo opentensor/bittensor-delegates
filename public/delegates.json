@@ -346,5 +346,11 @@
         "url": "https://minersunion.ai",
         "description": "The first Bittensor validator that empowers you to choose which subnets to incentivize. Committed to transparency and integrity, we ensure fair and honest validation processes that contribute to the growth and strength of the network.",
         "signature": "a21646f77683b77d315de7f8fbac599fd5938b140b7fcd9592937bb583532a09bbf1fdae8b45543a2a1d257d158e3b18ecedcee23072cdae42237f3b5546d888"
+    },
+    "5CzFiYvBhg9e3uNbPycSob9jiRX1o8ZNWigxWwk8YEYBgZ3J": {
+        "name": "Synapse Labs",
+        "url": "https://www.synapselab.dev",
+        "description": "Synapse Labs ensures the integrity of the Bittensor network through our commitment to high-performance validation, actively contributing to the security and efficiency of decentralized AI systems. As one of the first child key validators from OTF, we enable seamless collaboration, ensuring that TAO is put to its highest purpose—contributing to a trustless and transparent AI ecosystem where every participant can feel confident in the integrity and fairness of the network. By delegating their TAO, users become part of a collective effort to shape a future where AI innovation thrives without barriers.",
+        "signature": "888168eafa251f9b1236ce1fae8947b01f1bf20e2d5b2c3e8d2713aadce09c65ed6316130b616edfeb54151a32c8ddbc50dfa3ba844a5b67fa23528866153e86"
     }
 }
