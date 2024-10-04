@@ -346,5 +346,11 @@
         "url": "https://tensorplex.ai",
         "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
         "signature": "bae9942b50b0ebb4311a855c55b05e4a00200a349cbc0802546c4432ad10bd7de930d3552f4b7685ccf1294ea100997d2cf047f4c9f958eed9a8c30248a09d84"
+    },
+    "5F2CsUDVbRbVMXTh9fAzF9GacjVX7UapvRxidrxe7z8BYckQ": {
+        "name": "Rizzo",
+        "url": "",
+        "description": "Validator built for performance and uptime. Data center housed, redundancies include dual physical failover servers (HA), power, internet, tested DR Plan.",
+        "signature": "a2e5377b9fc6cd374fd1898022f66fddc30914f5601e3500087c3b226a7a4e20b516a57330f62f49f76baa6eae8d9ecca5002867bf836823ddbe8c52eebe6c8a"
     }
 }
