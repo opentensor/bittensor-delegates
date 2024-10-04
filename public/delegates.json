@@ -29,11 +29,11 @@
         "description": "A new Wave is coming, join the AI revolution on top of Bittensor by staking with us.",
         "signature": "5e072b4752ccbdd4ca3298f336284dfdab347dd133850f4d2f9873e7ea59bd2a8f201732842ec79d2bab3abaf133a06b6bd992940389e42d57802c9b8f855889"
     },
-    "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w": {
+    "5F2CsUDVbRbVMXTh9fAzF9GacjVX7UapvRxidrxe7z8BYckQ": {
         "name": "Rizzo",
         "url": "",
         "description": "Validator built for performance and uptime. Data center housed, redundancies include dual physical failover servers (HA), power, internet, tested DR Plan.",
-        "signature": "f2b0fdb6989c23a0ebe23ed5622cbbfcf57bad709085fe11b0be10b2838e1442d61f770d78f6ca8ebcdbf60ddb27398663a4901e22bb9de086866517c6ccc187"
+        "signature": "a2e5377b9fc6cd374fd1898022f66fddc30914f5601e3500087c3b226a7a4e20b516a57330f62f49f76baa6eae8d9ecca5002867bf836823ddbe8c52eebe6c8a"
     },
     "5GcBK8PDrVifV1xAf4Qkkk6KsbsmhDdX9atvk8vyKU8xdU63": {
         "name": "Tensor.Exchange",
