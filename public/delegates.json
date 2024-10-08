@@ -29,11 +29,11 @@
         "description": "A new Wave is coming, join the AI revolution on top of Bittensor by staking with us.",
         "signature": "5e072b4752ccbdd4ca3298f336284dfdab347dd133850f4d2f9873e7ea59bd2a8f201732842ec79d2bab3abaf133a06b6bd992940389e42d57802c9b8f855889"
     },
-    "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w": {
+    "5F2CsUDVbRbVMXTh9fAzF9GacjVX7UapvRxidrxe7z8BYckQ": {
         "name": "Rizzo",
         "url": "",
         "description": "Validator built for performance and uptime. Data center housed, redundancies include dual physical failover servers (HA), power, internet, tested DR Plan.",
-        "signature": "f2b0fdb6989c23a0ebe23ed5622cbbfcf57bad709085fe11b0be10b2838e1442d61f770d78f6ca8ebcdbf60ddb27398663a4901e22bb9de086866517c6ccc187"
+        "signature": "a2e5377b9fc6cd374fd1898022f66fddc30914f5601e3500087c3b226a7a4e20b516a57330f62f49f76baa6eae8d9ecca5002867bf836823ddbe8c52eebe6c8a"
     },
     "5GcBK8PDrVifV1xAf4Qkkk6KsbsmhDdX9atvk8vyKU8xdU63": {
         "name": "Tensor.Exchange",
@@ -300,9 +300,9 @@
         "signature": "d2c0aed073a026a5dbd8c458b9dd412fe3d6647fecd3b8f007cf184f7906245106aee4b210b5b582771dca149e5aa464630100de7f9862daacfa1f67ddde1388"
     },
     "5GKH9FPPnWSUoeeTJp19wVtd84XqFW4pyK2ijV2GsFbhTrP1": {
-        "name": "Taostats & Corcel", 
-        "url": "taostats.io", 
-        "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.", 
+        "name": "Taostats & Corcel",
+        "url": "taostats.io",
+        "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.",
         "signature": "ead6693b4c3ec0e9638041b262862bc5f7596cbd56fdded52c106cccba6d1a517b7a46c131bf835cf8194f5d13dea269953e57babc3c991dcfc257afc30baa81"
     },
     "5ELREhApbCahM7FyGLM1V9WDsnnjCRmMCJTmtQD51oAEqwVh": {
@@ -311,12 +311,6 @@
         "description": "Taofu unlocks liquidity and utility by bringing liquid staked TAO outside of Bittensor",
         "signature": "aaafd3496650a56f798cc587b5b7d372cec8e826a332a34213c1a6ee7be2b5122318858ee73421535d04186cc6976ae5452c6cd1aaf299a307d86d3c52b4a986"
     },
-    "5HbLYXUBy1snPR8nfioQ7GoA9x76EELzEq9j7F32vWUQHm1x": {
-        "name": "Tensorplex Labs",
-        "url": "https://twitter.com/TensorplexLabs",
-        "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
-        "signature": "7a997682e7545fd14847c78abf810e9c49a23ef4297d24f4238c0edd0463934780f6831d59972d56ab5bc41d6224b59c21ed95065791632b8aca180ade22af81"
-    },
     "5E2VSsWWXkBGCn4mi8RHXYQEF2wLXky6ZsNcTKnmEqaurzTE": {
         "name": "Sentinel",
         "url": "",
@@ -324,10 +318,10 @@
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     },
     "5GsenVhBvgEG4xiiKUjcssfznHYVm1TqPbSbr3ixBW81ZVjo": {
-         "name": "vote NO dTAO 🤡",
-         "url": "https://twitter.com/karl_anons",
-         "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
-         "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
+        "name": "vote NO dTAO 🤡",
+        "url": "https://twitter.com/karl_anons",
+        "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
+        "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
     },
     "5DM7CPqPKtMSADhFKYsstsCS4Tm4Kd6PMXoh6DdqY4MtxmtX": {
         "name": "Corτex Foundaτion",
@@ -341,16 +335,22 @@
         "description": "Love validator exists to accelerate open source AI and be good stewards of the Bittensorr network",
         "signature": "c221a3de3be031c149a7be912b3b75e0355605f041dc975153302b23b4d93e45e9cc7453532491e92076ccd333a4c1f95f4a2229aae8f4fcfb88e5dec3f14c87"
     },
-    "5Hb63SvXBXqZ8zw6mwW1A39fHdqUrJvohXgepyhp2jgWedSB": {
+    "5DQ2Geab6G25wiZ4jGH6wJM8fekrm1QhV9hrRuntjBVxxKZm": {
         "name": "Miner's Union Validator",
         "url": "https://minersunion.ai",
         "description": "The first Bittensor validator that empowers you to choose which subnets to incentivize. Committed to transparency and integrity, we ensure fair and honest validation processes that contribute to the growth and strength of the network.",
-        "signature": "a21646f77683b77d315de7f8fbac599fd5938b140b7fcd9592937bb583532a09bbf1fdae8b45543a2a1d257d158e3b18ecedcee23072cdae42237f3b5546d888"
+        "signature": "46fb0313ee952ee52ec9c581720f28f87dbd6e5ff0218dd3ac3f7cd25720dc41a05e371f69be90d8e9894ad6155de191c891f2a395299d13e920e84ae29ace83"
+    },
+    "5E4z3h9yVhmQyCFWNbY9BPpwhx4xFiPwq3eeqmBgVF6KULde": {
+        "name": "Tensorplex Labs",
+        "url": "https://tensorplex.ai",
+        "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
+        "signature": "bae9942b50b0ebb4311a855c55b05e4a00200a349cbc0802546c4432ad10bd7de930d3552f4b7685ccf1294ea100997d2cf047f4c9f958eed9a8c30248a09d84"
     },
     "5CzFiYvBhg9e3uNbPycSob9jiRX1o8ZNWigxWwk8YEYBgZ3J": {
         "name": "Synapse Labs",
         "url": "https://www.synapselab.dev",
-        "description": "Synapse Labs ensures the integrity of the Bittensor network through our commitment to high-performance validation, actively contributing to the security and efficiency of decentralized AI systems. As one of the first child key validators from OTF, we enable seamless collaboration, ensuring that TAO is put to its highest purpose—contributing to a trustless and transparent AI ecosystem where every participant can feel confident in the integrity and fairness of the network. By delegating their TAO, users become part of a collective effort to shape a future where AI innovation thrives without barriers.",
+        "description": "Synapse Labs ensures the integrity of the Bittensor network through our commitment to high-performance validation, actively contributing to the security and efficiency of decentralized AI systems. By delegating their TAO, users become part of a collective effort to shape a future where AI innovation thrives without barriers.",
         "signature": "888168eafa251f9b1236ce1fae8947b01f1bf20e2d5b2c3e8d2713aadce09c65ed6316130b616edfeb54151a32c8ddbc50dfa3ba844a5b67fa23528866153e86"
     }
 }
