@@ -346,5 +346,11 @@
         "url": "https://tensorplex.ai",
         "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
         "signature": "bae9942b50b0ebb4311a855c55b05e4a00200a349cbc0802546c4432ad10bd7de930d3552f4b7685ccf1294ea100997d2cf047f4c9f958eed9a8c30248a09d84"
+    },
+    "5CzFiYvBhg9e3uNbPycSob9jiRX1o8ZNWigxWwk8YEYBgZ3J": {
+        "name": "Synapse Labs",
+        "url": "https://www.synapselab.dev",
+        "description": "Synapse Labs ensures the integrity of the Bittensor network through our commitment to high-performance validation, actively contributing to the security and efficiency of decentralized AI systems. By delegating their TAO, users become part of a collective effort to shape a future where AI innovation thrives without barriers.",
+        "signature": "888168eafa251f9b1236ce1fae8947b01f1bf20e2d5b2c3e8d2713aadce09c65ed6316130b616edfeb54151a32c8ddbc50dfa3ba844a5b67fa23528866153e86"
     }
 }
