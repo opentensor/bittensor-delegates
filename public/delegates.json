@@ -352,5 +352,11 @@
         "url": "https://www.synapselab.dev",
         "description": "Synapse Labs ensures the integrity of the Bittensor network through our commitment to high-performance validation, actively contributing to the security and efficiency of decentralized AI systems. By delegating their TAO, users become part of a collective effort to shape a future where AI innovation thrives without barriers.",
         "signature": "888168eafa251f9b1236ce1fae8947b01f1bf20e2d5b2c3e8d2713aadce09c65ed6316130b616edfeb54151a32c8ddbc50dfa3ba844a5b67fa23528866153e86"
+    },
+    "5HYk8DMKWK8TJyPzZJ9vmZk7B5NPCgjnZoyZ1ZsB54RXdN47": {
+        "name": "Crucible Labs",
+        "url": "https://cruciblelabs.com/",
+        "description": "Developing innovative solutions that enhance Bittensor's accessibility and functionality, empowering developers, entrepreneurs, and investors to build ethical, decentralized AI.",
+        "signature": "665a6684ee0702bee1621f81afe2cd1b568a5b856f3f478768647b6bf2c67408920cf472b0c2df62190f109256e3b96d75802726d44df4eea764b71479725d80"
     }
 }
