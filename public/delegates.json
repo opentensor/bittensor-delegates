@@ -358,5 +358,11 @@
         "url": "https://cruciblelabs.com/",
         "description": "Developing innovative solutions that enhance Bittensor's accessibility and functionality, empowering developers, entrepreneurs, and investors to build ethical, decentralized AI.",
         "signature": "665a6684ee0702bee1621f81afe2cd1b568a5b856f3f478768647b6bf2c67408920cf472b0c2df62190f109256e3b96d75802726d44df4eea764b71479725d80"
+    },
+    "5Deo9Q3SnZWNPSEPRTgapbyy6egKu2oaNSqD4RQHHJEuzD9Y": {
+        "name": "Firepool",
+        "url": "https://firepool.ai/",
+        "description": "Firepool: Harnessing Cutting-Edge Blockchain and AI Technology to Make Your Investments Work Harder for You",
+        "signature": "1220f34c7c975714c5d29aab894b20ee07275ec1672c15fb65d2870c8b305f305e43d6b808548ec577738ab46484e15d2cb4a0eb31ad11c37d2101ee0009b68b"
     }
 }
