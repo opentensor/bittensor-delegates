@@ -138,10 +138,10 @@
         "signature": "16940f904b7946723fc4f27bb01e47cf262201ef76b3d9c2bfd745973da2512d4825910f6fa738a6968c809b26da0a47e7032a7ff95d8b2da5c1fa7a0b85598f"
     },
     "5HEo565WAy4Dbq3Sv271SAi7syBSofyfhhwRNjFNSM2gP9M2": {
-        "name": "Foundry",
+        "name": "Foundry, a DCG Company",
         "url": "https://foundrydigital.com",
         "description": "Foundry works to empower a decentralized infrastructure. We are protocol-agnostic and seek to support like-minded blockchain entrepreneurs who share our mission to advance the industry.",
-        "signature": "b852f1648ab62befaaf684671808aa34d267cd616d9ffd7b3cf924ebc7c4ee3255344cfd017a80ca6b23b2852bcafa705c42d231053e06d999d53f31bd8ab288"
+        "signature": "106c9e4baf65bb500bf6fb48591185ccc2df76eccf8ad585cd0e1fe19eafae134bec63c6d7a783b789386e94dda0a9d9c85b2a8ea60dc30d9a924e0c7745e481"
     },
     "5FP9miYmgjAP8Wt3747M2Y6Kk7PrXf6zG7a3EjokQiFFcmUu": {
         "name": "Elm Place",
@@ -352,5 +352,17 @@
         "url": "https://www.synapselab.dev",
         "description": "Synapse Labs ensures the integrity of the Bittensor network through our commitment to high-performance validation, actively contributing to the security and efficiency of decentralized AI systems. By delegating their TAO, users become part of a collective effort to shape a future where AI innovation thrives without barriers.",
         "signature": "888168eafa251f9b1236ce1fae8947b01f1bf20e2d5b2c3e8d2713aadce09c65ed6316130b616edfeb54151a32c8ddbc50dfa3ba844a5b67fa23528866153e86"
+    },
+    "5HYk8DMKWK8TJyPzZJ9vmZk7B5NPCgjnZoyZ1ZsB54RXdN47": {
+        "name": "Crucible Labs",
+        "url": "https://cruciblelabs.com/",
+        "description": "Developing innovative solutions that enhance Bittensor's accessibility and functionality, empowering developers, entrepreneurs, and investors to build ethical, decentralized AI.",
+        "signature": "665a6684ee0702bee1621f81afe2cd1b568a5b856f3f478768647b6bf2c67408920cf472b0c2df62190f109256e3b96d75802726d44df4eea764b71479725d80"
+    },
+    "5Deo9Q3SnZWNPSEPRTgapbyy6egKu2oaNSqD4RQHHJEuzD9Y": {
+        "name": "Firepool",
+        "url": "https://firepool.ai/",
+        "description": "Firepool: Harnessing Cutting-Edge Blockchain and AI Technology to Make Your Investments Work Harder for You",
+        "signature": "1220f34c7c975714c5d29aab894b20ee07275ec1672c15fb65d2870c8b305f305e43d6b808548ec577738ab46484e15d2cb4a0eb31ad11c37d2101ee0009b68b"
     }
 }
