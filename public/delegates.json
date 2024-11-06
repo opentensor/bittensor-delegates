@@ -364,5 +364,11 @@
         "url": "https://firepool.ai/",
         "description": "Firepool: Harnessing Cutting-Edge Blockchain and AI Technology to Make Your Investments Work Harder for You",
         "signature": "1220f34c7c975714c5d29aab894b20ee07275ec1672c15fb65d2870c8b305f305e43d6b808548ec577738ab46484e15d2cb4a0eb31ad11c37d2101ee0009b68b"
+    },
+    "5D4oo3Z5VFUJtFWcK9wtfPqkGnzVubSFMnWnMKUVkDxsrWSj": {
+        "name": "Neos Foundaτion",
+        "url": "https://neo-s.ai/",
+        "description": "Secure and efficient Web3 validator empowering decentralized intelligence on the Bittensor blockchain - high-yield staking",
+        "signature": "bc87062bef29f05ef15b03b52a1342fd54e3c960629bf05f527f2deb90c3b01835e1f78f0d128c0aab02fe71dc41457e61e2efacf6f3a14365d92cf8bec5e08d"
     }
 }
