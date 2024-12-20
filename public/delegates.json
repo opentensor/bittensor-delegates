@@ -370,5 +370,11 @@
         "url": "https://neo-s.ai/",
         "description": "Secure and efficient Web3 validator empowering decentralized intelligence on the Bittensor blockchain - high-yield staking",
         "signature": "020e405da6a50bff05b9f3b4ae7180f28c2f90597ead902de7475033cbb3265b1328478cbcbccacf607b21749e974c78e17838b7a17991c7c7f9357973a0548c"
+    },
+    "5CBDhkBxf3u7rSZqbcBW59NCpGbCsZSDFBgToEc4owqk8S3A": {
+        "name": "Unit 410",
+        "url": "https://unit410.com/",
+        "description": "Empowering hodlers to use their crypto in secure and novel ways",
+        "signature": "746468a5d1fd7aaa3dde4474d0a7cf37e04c6c7af12202bdf6aca9a2262ed15b12000a40b91264c3cec3bf2b463d16c7e53f3f7d44646427f7bd1fabe1be2684"
     }
 }
