@@ -370,5 +370,11 @@
         "url": "https://neo-s.ai/",
         "description": "Secure and efficient Web3 validator empowering decentralized intelligence on the Bittensor blockchain - high-yield staking",
         "signature": "020e405da6a50bff05b9f3b4ae7180f28c2f90597ead902de7475033cbb3265b1328478cbcbccacf607b21749e974c78e17838b7a17991c7c7f9357973a0548c"
+    },
+    "5D4gEn5S422dTGR5NJJKZ93FNV6hDmfwDPfxFNgcoVnUkZ4f": {
+        "name": "Tatsu",
+        "url": "https://tatsuecosystem.io/",
+        "description": "Official Tatsu Validator. Building Decentralized Future on Bittensor.",
+        "signature": "e0d40509b9e18ff02b0803b9267f9779c05bd9017bb12a6110060a69688ded29397136fdd175f850e0c8faa89122a63e89829811e64dc76d737d52769d06ad83"
     }
 }
