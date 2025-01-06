@@ -376,11 +376,5 @@
         "url": "https://tatsuecosystem.io/",
         "description": "Official Tatsu Validator. Building Decentralized Future on Bittensor.",
         "signature": "e0d40509b9e18ff02b0803b9267f9779c05bd9017bb12a6110060a69688ded29397136fdd175f850e0c8faa89122a63e89829811e64dc76d737d52769d06ad83"
-    },
-    "5CBDhkBxf3u7rSZqbcBW59NCpGbCsZSDFBgToEc4owqk8S3A": {
-        "name": "Unit 410",
-        "url": "https://unit410.com/",
-        "description": "Empowering holders to use their crypto in secure and novel ways",
-        "signature": "746468a5d1fd7aaa3dde4474d0a7cf37e04c6c7af12202bdf6aca9a2262ed15b12000a40b91264c3cec3bf2b463d16c7e53f3f7d44646427f7bd1fabe1be2684"
     }
 }
