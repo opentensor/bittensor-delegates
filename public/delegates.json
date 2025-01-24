@@ -382,5 +382,11 @@
         "url": "https://unit410.com/",
         "description": "Empowering hodlers to use their crypto in secure and novel ways",
         "signature": "746468a5d1fd7aaa3dde4474d0a7cf37e04c6c7af12202bdf6aca9a2262ed15b12000a40b91264c3cec3bf2b463d16c7e53f3f7d44646427f7bd1fabe1be2684"
+    },
+    "5CoZxgtfhcJKX2HmkwnsN18KbaT9aih9eF3b6qVPTgAUbifj": {
+        "name": "Latent Holdings",
+        "url": "latent.to",
+        "description": "Advancing Bittensor through opensource software and high commitment investments.",
+        "signature": "0xac874ae7ad9a72bb110660f1bf3d3f2aa8a2152c9ee97087a7c4f9691aad771acc91031eba1bd3e9d5b2884fb845d622c74d51cf767c00f64cfa1bfc11f3008d"
     }
 }
