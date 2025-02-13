@@ -394,5 +394,11 @@
         "url": "https://staked.us",
         "description": "Staked is the leading provider of validation technology and services.",
         "signature": "accd6768420e9dc3c6b68fb07f91b662bc7fa5e2d550b1949a0efa8482a43535aafe9ad567fc17ee946915bae69c911ddd833126c0c996fccc67acdcc2f27288"
+    },
+    "5E2LP6EnZ54m3wS8s1yPvD5c3xo71kQroBw7aUVK32TKeZ5u": {
+        "name": "EasyStake",
+        "url": "https://easystake.gg",
+        "description": "Simplifying your Bittensor journey through user-friendly staking.",
+        "signature": "1e075f6dfb59b99cd99767828903deb5215aa1daaa51d7f0a5e4584cac1a7e510f9a17d6ad989872c3656c8faa1faed7d83389407ac3af92bc2962b294d94e84"
     }
 }
