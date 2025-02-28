@@ -394,5 +394,11 @@
         "url": "https://staked.us",
         "description": "Staked is the leading provider of validation technology and services.",
         "signature": "accd6768420e9dc3c6b68fb07f91b662bc7fa5e2d550b1949a0efa8482a43535aafe9ad567fc17ee946915bae69c911ddd833126c0c996fccc67acdcc2f27288"
+    },
+    "5E2LP6EnZ54m3wS8s1yPvD5c3xo71kQroBw7aUVK32TKeZ5u": {
+        "name": "tao.bot",
+        "url": "https://tao.bot",
+        "description": "Official tao.bot validator",
+        "signature": "8ea4a96ccfcd3b6d3f6993c76a349cf7107213d25d3181d0c2121a4a8c1aa85847f2a4f7ac00cc383d5672108b2498dcbee0ea85d710f114d9290648869ab98e"
     }
 }
