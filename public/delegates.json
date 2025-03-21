@@ -388,5 +388,11 @@
         "url": "https://tao.bot",
         "description": "Official tao.bot validator",
         "signature": "8ea4a96ccfcd3b6d3f6993c76a349cf7107213d25d3181d0c2121a4a8c1aa85847f2a4f7ac00cc383d5672108b2498dcbee0ea85d710f114d9290648869ab98e"
+    },
+    "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp": {
+        "name": "tao5",
+        "url": "https://tao5.com/",
+        "description": "Bittensor subnet incubator & network validator",
+        "signature": "32f6418447ee907240ca5856e25e31d87697b6d36302fefb0d2995709eb7da1db87685ee84d166b8a32e507a95321431931b5e81c1c54cdc88dd3e073ac4a68d"
     }
 }
