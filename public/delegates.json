@@ -113,12 +113,6 @@
         "description": "Developer, Advocate, and Incubator for Decentralized AI.",
         "signature": "28e221d7128e48a3cb85dbcb223bd56cb09cb55540263573783bf1cef63be32ee81246bd1d75c865580da732094053a6dad14929b17e659b6e0237412b66a487"
     },
-    "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp": {
-        "name": "tao5",
-        "url": "https://tao5.com/",
-        "description": "Bittensor subnet incubator & network validator",
-        "signature": "56aae1d0bc41f908b2d6e174fd9d13edc507121ba21a4dd631a036cd53ead05241aaca247e703285083ff71bcc1c745c5cde69384e79502e98134471376c878a"
-    },
     "5FLKnbMjHY8LarHZvk2q2RY9drWFbpxjAcR5x8tjr3GqtU6F": {
         "name": "Tao Bridge",
         "url": "https://taobridge.xyz",
@@ -347,12 +341,6 @@
         "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
         "signature": "bae9942b50b0ebb4311a855c55b05e4a00200a349cbc0802546c4432ad10bd7de930d3552f4b7685ccf1294ea100997d2cf047f4c9f958eed9a8c30248a09d84"
     },
-    "5CzFiYvBhg9e3uNbPycSob9jiRX1o8ZNWigxWwk8YEYBgZ3J": {
-        "name": "Synapse Labs",
-        "url": "https://www.synapselab.dev",
-        "description": "Synapse Labs ensures the integrity of the Bittensor network through our commitment to high-performance validation, actively contributing to the security and efficiency of decentralized AI systems. By delegating their TAO, users become part of a collective effort to shape a future where AI innovation thrives without barriers.",
-        "signature": "888168eafa251f9b1236ce1fae8947b01f1bf20e2d5b2c3e8d2713aadce09c65ed6316130b616edfeb54151a32c8ddbc50dfa3ba844a5b67fa23528866153e86"
-    },
     "5HYk8DMKWK8TJyPzZJ9vmZk7B5NPCgjnZoyZ1ZsB54RXdN47": {
         "name": "Crucible Labs",
         "url": "https://cruciblelabs.com/",
@@ -387,7 +375,7 @@
         "name": "Latent Holdings",
         "url": "latent.to",
         "description": "Advancing Bittensor through opensource software and high commitment investments.",
-        "signature": "0xac874ae7ad9a72bb110660f1bf3d3f2aa8a2152c9ee97087a7c4f9691aad771acc91031eba1bd3e9d5b2884fb845d622c74d51cf767c00f64cfa1bfc11f3008d"
+        "signature": "ac874ae7ad9a72bb110660f1bf3d3f2aa8a2152c9ee97087a7c4f9691aad771acc91031eba1bd3e9d5b2884fb845d622c74d51cf767c00f64cfa1bfc11f3008d"
     },
     "5Ft5kRgKDFafWX8mHneYqi44z8J3PGDguVjYnEADxjVJPTih": {
         "name": "Staked",
