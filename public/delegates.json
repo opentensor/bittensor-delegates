@@ -282,10 +282,10 @@
         "signature": "5608316f3081bfe5d0e3a7db6c3bfd459f6b87e02d657de941e6a760f8688f23ef30784691a1893d1fd8079dd4f6082d0d655ca507aa4797fee9844547d13a88"
     },
     "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN": {
-        "name": "Bittensor Guru",
-        "url": "https://bittensor.guru",
-        "description": "Official validator of the Bittensor Guru Podcast",
-        "signature": "caf2c6b7b0d2a341bcd00e632cf22c33d53e2523dffcd3a151db9eeadd88300545cbb2187ba0b20e5bfe09c2b17bbf34630c46defd8f8d27ab508736fd18a284"
+        "name": "TAO.com",
+        "url": "www.tao.com",
+        "description": "The gateway to Bittensor",
+        "signature": "68b64ed76bd80480137f9ad9ad53098baf432c8f80a7436b409582b12b01117bc31881ff25ff823b3ec10a2189d405f0a38494f99d0521cbbb7366c12fce4881"
     },
     "5Hh3ShaNW9irCe5joBLCeFD5Fxb2fJ6gFAgrsPmoz3JkzqvJ": {
         "name": "BlockShark",
