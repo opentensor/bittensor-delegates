@@ -287,6 +287,12 @@
         "description": "The gateway to Bittensor",
         "signature": "68b64ed76bd80480137f9ad9ad53098baf432c8f80a7436b409582b12b01117bc31881ff25ff823b3ec10a2189d405f0a38494f99d0521cbbb7366c12fce4881"
     },
+    "5DnXm2tBGAD57ySJv5SfpTfLcsQbSKKp6xZKFWABw3cYUgqg": {
+        "name": "Love",
+        "url": "https://love.cosimo.fund",
+        "description": "Love validator exists to accelerate the advent of open source AI",
+        "signature": "b8e6a4db29440ac8193fc4bba2e21dce2b850e61f4815c8cb20dc4785e9bda5078bcac37c525e8db033455150e57dc6fe65541f5e31fdbaf44440c2b786c4685"
+    },
     "5Hh3ShaNW9irCe5joBLCeFD5Fxb2fJ6gFAgrsPmoz3JkzqvJ": {
         "name": "BlockShark",
         "url": "https://www.blockshark.net/",
