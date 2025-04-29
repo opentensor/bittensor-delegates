@@ -394,5 +394,11 @@
         "url": "https://tao5.com/",
         "description": "Bittensor subnet incubator & network validator",
         "signature": "32f6418447ee907240ca5856e25e31d87697b6d36302fefb0d2995709eb7da1db87685ee84d166b8a32e507a95321431931b5e81c1c54cdc88dd3e073ac4a68d"
+    },
+    "5G9hfkx9wGB1CLMT9WXkpHSAiYzjZb5o1Boyq4KAdDhjwrc5": {
+        "name": "1T1B.AI",
+        "url": "1t1b.ai",
+        "description": "official 1t1b.ai validator",
+        "signature": "1eca7254f17c62a150490826212fb55542117d42b658c06f2edfdd61d05b7c2cab53ee2ff1b051bfd9ea2e91d4e8e60746b4d66f15a5bf26ef94d334ba586e8d"
     }
 }
