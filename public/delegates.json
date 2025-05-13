@@ -400,5 +400,11 @@
         "url": "1t1b.ai",
         "description": "official 1t1b.ai validator",
         "signature": "1eca7254f17c62a150490826212fb55542117d42b658c06f2edfdd61d05b7c2cab53ee2ff1b051bfd9ea2e91d4e8e60746b4d66f15a5bf26ef94d334ba586e8d"
+    },
+    "5EhY3b6yE4kNusQQ3tmYHDHYtDUjuxks4QaFmFs3rqQahD2m": {
+        "name": "SAXON",
+        "url": "www.saxon.xyz",
+        "description": "Saxon operates high-performance, security-first infrastructure, strengthening Bittensor and maximizing staker rewards",
+        "signature": "d2250f719022f3b7f3e115b7826dd7165d053972bb84f109e6079be3e451ca3cf9a1e37b4d829e4374f633b09a9f9c9308961e7333049d8fa428dabc8fd8d38d"
     }
 }
