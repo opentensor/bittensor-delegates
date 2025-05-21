@@ -400,5 +400,11 @@
         "url": "1t1b.ai",
         "description": "official 1t1b.ai validator",
         "signature": "1eca7254f17c62a150490826212fb55542117d42b658c06f2edfdd61d05b7c2cab53ee2ff1b051bfd9ea2e91d4e8e60746b4d66f15a5bf26ef94d334ba586e8d"
+    },
+    "5HpmskNwfgBSqsiJ8GoYazEXNP89eppotYZqfnRnE87kxaWG": {
+        "name": "Kiln",
+        "url": "https://www.kiln.fi/",
+        "description": "Democratising value creation in digital assets",
+        "signature": "1abe469f6de54f727b9726dfd0033f0f2200348a74603933885402044a871514c7070ff02a91e92dcbfb86a4a2930ac5265ead06416b8ba149bd1a46abd3d08f"
     }
 }
