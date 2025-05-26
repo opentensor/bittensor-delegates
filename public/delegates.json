@@ -1,4 +1,10 @@
 {
+    "5GP7c3fFazW9GXK8Up3qgu2DJBk8inu4aK9TZy3RuoSWVCMi": {
+        "name": "Datura",
+        "url": "https://datura.ai/",
+        "description": "Bridging Bittensor to a billion users",
+        "signature": "ea93b97b1bd9827299e2aad8bdc3d58ca510444f5c27fda27fd9ef3a21f0836dc0d9ab01922becf9312488af224188c6d7f33b29bf6cad8ace17caccda198f89"
+    },
     "5ECvRLMj9jkbdM4sLuH5WvjUe87TcAdjRfUj5onN4iKqYYGm": {
         "name": "Vune",
         "url": "https://fairchild.dev",
@@ -23,11 +29,11 @@
         "description": "A new Wave is coming, join the AI revolution on top of Bittensor by staking with us.",
         "signature": "5e072b4752ccbdd4ca3298f336284dfdab347dd133850f4d2f9873e7ea59bd2a8f201732842ec79d2bab3abaf133a06b6bd992940389e42d57802c9b8f855889"
     },
-    "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w": {
+    "5F2CsUDVbRbVMXTh9fAzF9GacjVX7UapvRxidrxe7z8BYckQ": {
         "name": "Rizzo",
         "url": "",
         "description": "Validator built for performance and uptime. Data center housed, redundancies include dual physical failover servers (HA), power, internet, tested DR Plan.",
-        "signature": "f2b0fdb6989c23a0ebe23ed5622cbbfcf57bad709085fe11b0be10b2838e1442d61f770d78f6ca8ebcdbf60ddb27398663a4901e22bb9de086866517c6ccc187"
+        "signature": "a2e5377b9fc6cd374fd1898022f66fddc30914f5601e3500087c3b226a7a4e20b516a57330f62f49f76baa6eae8d9ecca5002867bf836823ddbe8c52eebe6c8a"
     },
     "5GcBK8PDrVifV1xAf4Qkkk6KsbsmhDdX9atvk8vyKU8xdU63": {
         "name": "Tensor.Exchange",
@@ -35,11 +41,11 @@
         "description": "Bittensor's first community OTC exchange",
         "signature": "101f5e0d26c38190200f2213ebd89cf5bcb736b70a84e53651b6f9bf1161a33d0095836d304851237e0334792a54fa2fe452d07cf1466b42c9ab3333ded46284"
     },
-    "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux": {
-        "name": "TAO-Validator.com",
-        "url": "www.tao-validator.com",
-        "description": "Maximize your return when staking with TAO-Validator.com. TAO-Validator.com is a highly secure validator that aims to become one of the top contributing entities to Bittensor.",
-        "signature": "4036991069d7f3a43dff2ba2592fbe5af820eb6ff96d1fb78f1bcd8d310ba8751e25ea14397e075368a9a0f1b1b176166c56351db36f2d3868ac61c2571a1981"
+    "5Fy3MjrdKRvUWSuJa4Yd5dmBYunzKNmXnLcvP22NfaTvhQCY": {
+        "name": "Neuralteq (TAO-Validator.com)",
+        "url": "https://neuralteq.com/",
+        "description": "High Staking Rewards (APY), Quality Research, Cutting Edge Models, and a business development team that generates real-world adoption for Bittensor Subnets. Stake with Neuralteq and rest assured that you are maximizing your contribution to Bittensor!",
+        "signature": "f4c287a97bb315f7d7c9f6e89b28532614fd058b8e43de0c248be207b9890a742ec5967780525d2b91d3dd1851a0177d74db89e7d40c31970351075fd873b38a"
     },
     "5FvhvCWLbu2VgotT5obC9E6S9nskerJUrVsWqkWXCbuD8veW": {
         "name": "The Lost Cove",
@@ -78,10 +84,10 @@
         "signature": "0272522b503ebb29f0b506f10765b4d5c7a23b85c78cc7bfae76b9816b80ab43282ea4642f09eb09be70812341e5d9946abc8a9d2c73bab0113e9bf939430c87"
     },
     "5FcXnzNo3mrqReTEY4ftkg5iXRBi61iyvM4W1bywZLRqfxAY": {
-        "name": "Lucrosus Capital",
-        "url": "https://lucrosuspool.io/",
-        "description": "Decentralized VC focused on the most thriving blockchain ideas. Join our pool to receive early entrance into promising projects!",
-        "signature": "1a37ab3bd51a6590dea9772d6a5550632ddcd8d76da6595b66e6425692feac6699dc5f788e587a734cedc3f54efc96c2c9e5453f9052867c1b9a1b5a443b848c"
+        "name": "BitTranslate Validator",
+        "url": "https://www.bittranslate.io/",
+        "description": "Translate any language directly with BitTranslate - AI empowered with Bittensor! Subnet 2 on Bittensor Network.",
+        "signature": "5ccf3bf534c0af659d98b541da57c53a6b54e67b57c3229db80b68f33930726b6b06db5bfb0cf33fe94eab6c8aea57f311a393022966ee458348e4143711c686"
     },
     "5CVS9d1NcQyWKUyadLevwGxg6LgBcF9Lik6NSnbe5q59jwhE": {
         "name": "Ary van der Touw",
@@ -107,12 +113,6 @@
         "description": "Developer, Advocate, and Incubator for Decentralized AI.",
         "signature": "28e221d7128e48a3cb85dbcb223bd56cb09cb55540263573783bf1cef63be32ee81246bd1d75c865580da732094053a6dad14929b17e659b6e0237412b66a487"
     },
-    "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp": {
-        "name": "Owl Ventures",
-        "url": "https://owlventures.co.uk",
-        "description": "Owl Ventures Bittensor Validator",
-        "signature": "04e39ff19af7ee5a75e58c9e1a71b9f54a66d1d168a99532a859f129b68ba24a5b6a56eecae7790291859c82dbf0ec32eb18a069b6d9dabe1ef0339c0d189483"
-    },
     "5FLKnbMjHY8LarHZvk2q2RY9drWFbpxjAcR5x8tjr3GqtU6F": {
         "name": "Tao Bridge",
         "url": "https://taobridge.xyz",
@@ -131,11 +131,11 @@
         "description": "GPU Cloud built for AI. We plan to introduce perks for those who stake.",
         "signature": "16940f904b7946723fc4f27bb01e47cf262201ef76b3d9c2bfd745973da2512d4825910f6fa738a6968c809b26da0a47e7032a7ff95d8b2da5c1fa7a0b85598f"
     },
-    "5HEo565WAy4Dbq3Sv271SAi7syBSofyfhhwRNjFNSM2gP9M2": {
-        "name": "Foundry",
-        "url": "https://foundrydigital.com",
-        "description": "Foundry works to empower a decentralized infrastructure. We are protocol-agnostic and seek to support like-minded blockchain entrepreneurs who share our mission to advance the industry.",
-        "signature": "b852f1648ab62befaaf684671808aa34d267cd616d9ffd7b3cf924ebc7c4ee3255344cfd017a80ca6b23b2852bcafa705c42d231053e06d999d53f31bd8ab288"
+    "5DXdHixxtCvoa6GHKs2Jgrdzc61882Ftx1zN2sYFQuwgL1S1": {
+        "name": "Yuma, a DCG Company",
+        "url": "https://yumaai.com",
+        "description": "Yuma powers transformative projects on Bittensor that will reshape our futures.",
+        "signature": "7262f4274c7f1a04f65400b38584f1bd04c1cda738ef8ff78436c0963b4c8e71f0ee3593e14aac01ebdfddc979b0e4392ed857a5fc1b0baa19cd2e7cd88d4c8e"
     },
     "5FP9miYmgjAP8Wt3747M2Y6Kk7PrXf6zG7a3EjokQiFFcmUu": {
         "name": "Elm Place",
@@ -143,11 +143,11 @@
         "description": "Run by individuals passionate about creating decentralised digital infrastructure. Background in fiduciary funds management managing institutional investors’ capital in real assets, energy and infrastructure",
         "signature": "a0324025f58beb06535d6a2ab8c5c8d64c13d562fa285956bb5a8919da5fcc0d05afe4de010d54f9940bff0ffdabe5f41e70f3af31cf14293c1d6f0a0690da8c"
     },
-    "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf": {
+    "5GmvyePN9aYErXBBhBnxZKGoGk4LKZApE4NkaSzW62CYCYNA": {
         "name": "Neural Internet",
         "url": "www.neuralinternet.ai",
         "description": "An AI research and development Decentralized Autonomous Organization (DAO)",
-        "signature": "5e617c1626d4825cd0c11769e31fe4dda611cebd8a4d46f533886ad057072e2a58e0ecef2805139f2b43ea8d51023f7db878ad45cd3f8fba45ab01223da3488e"
+        "signature": "b059c7b9522005f58fec02632d47068928f4a03f00ff96cc98a8e498d756f2377a4eb35a6fa1e803abf1c53dd1c98cd4ac4594cd0b6668c6fe2ce326449b4580"
     },
     "5D4rJRtF23jLVcGnCktXzPM9gymMT1qHTp8dR4T7rUd88Q7U": {
         "name": "Vogue τensor",
@@ -179,11 +179,11 @@
         "description": "Powered by the Neuron Holders community - shared rewards, additional benefits, infinite possibilities - join and build with us!",
         "signature": "da31e56dd78cde449a1dd9592f0b53eb8c3662674b745a05ff916e80a1be933e86efbccb7f7c9b81d7c0bb14d13fb4a6bf8484c3619224e689de82072b5d9a87"
     },
-    "5CaNj3BarTHotEK1n513aoTtFeXcjf6uvKzAyzNuv9cirUoW": {
+    "5FxcZraZACr4L78jWkcYe3FHdiwiAUzrKLVtsSwkvFobBKqq": {
         "name": "Polychain",
         "url": "https://polychain.capital/",
         "description": "Polychain is an investment firm committed to exceptional returns for investors through actively managed portfolios of blockchain assets.",
-        "signature": "f41e815033e595aa70fbe42e8dfd91eaa3ccdbc948b63811baf9eac765699b30cac9aad7abe330eeaf3969cc504a4c1255f1e69bee807c2d989518b8f5413c8d"
+        "signature": "14b58d555d1e86c05f3f90d122944f5e1aead174b02372dc97b3fa05f338985cbe309f290cfb3bab9407ae878cfd0d1cf4db331d9a1d800ebc66202472044483"
     },
     "5Dkv87qjGGF42SNhDAep6WZp65E29c2vUPUfDBGDNevENCMs": {
         "name": "MycoNet",
@@ -282,10 +282,10 @@
         "signature": "5608316f3081bfe5d0e3a7db6c3bfd459f6b87e02d657de941e6a760f8688f23ef30784691a1893d1fd8079dd4f6082d0d655ca507aa4797fee9844547d13a88"
     },
     "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN": {
-        "name": "Bittensor Guru",
-        "url": "https://bittensor.guru",
-        "description": "Official validator of the Bittensor Guru Podcast",
-        "signature": "caf2c6b7b0d2a341bcd00e632cf22c33d53e2523dffcd3a151db9eeadd88300545cbb2187ba0b20e5bfe09c2b17bbf34630c46defd8f8d27ab508736fd18a284"
+        "name": "TAO.com",
+        "url": "www.tao.com",
+        "description": "The gateway to Bittensor",
+        "signature": "68b64ed76bd80480137f9ad9ad53098baf432c8f80a7436b409582b12b01117bc31881ff25ff823b3ec10a2189d405f0a38494f99d0521cbbb7366c12fce4881"
     },
     "5Hh3ShaNW9irCe5joBLCeFD5Fxb2fJ6gFAgrsPmoz3JkzqvJ": {
         "name": "BlockShark",
@@ -293,29 +293,23 @@
         "description": "Your reliable partner for staking on Bittensor. We are expert in running high-end machine for validators and AI",
         "signature": "d2c0aed073a026a5dbd8c458b9dd412fe3d6647fecd3b8f007cf184f7906245106aee4b210b5b582771dca149e5aa464630100de7f9862daacfa1f67ddde1388"
     },
-    "5FKstHjZkh4v3qAMSBa1oJcHCLjxYZ8SNTSz1opTv4hR7gVB": {
-        "name": "Datura",
-        "url": "datura.ai",
-        "description": "Bridging Bittensor to a billion users",
-        "signature": "7a3bc6a840d8593853c27188f59200418d8884b94b3ad28cb7b37b80bffd1f3b23b7eed4b1d9c77b28b05b2bd1952c5cbe3d27ba190a9418407ce1e899e5ac8b"
-    },
-    "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8": {
-        "name": "τaosτaτs and Corcel",
+    "5GKH9FPPnWSUoeeTJp19wVtd84XqFW4pyK2ijV2GsFbhTrP1": {
+        "name": "Taostats & Corcel",
         "url": "taostats.io",
         "description": "Supporting bittensor through API access, data provision, statistics, analytics and apps.",
-        "signature": "2e2dd0c5f3a3945f29d1be304e64f931c04a23aba7d383d01cd16ea6ca6546002fe3bd95cf8f12cae1fbb7d18d9910b834f6573db219de3ed84073a4e1552e89"
+        "signature": "ead6693b4c3ec0e9638041b262862bc5f7596cbd56fdded52c106cccba6d1a517b7a46c131bf835cf8194f5d13dea269953e57babc3c991dcfc257afc30baa81"
+    },
+    "5GmUMHGZ2QL8GAMhKMJb1P7EZaVUuxA1xLsYwKwUba3ttBEH": {
+        "name": "tarabukinivan",
+        "url": "https://tarabukinivan.github.io/personal/",
+        "description": "Hi validators!!!",
+        "signature": "82b6bb99e7c860c63a52e220676c370b30c2a763033e29d3307801397012686ccb06c4c4d1536ea981ccf59a30fdb39b756140fd10276caec8bc3a2aa748a68a"
     },
     "5ELREhApbCahM7FyGLM1V9WDsnnjCRmMCJTmtQD51oAEqwVh": {
         "name": "Taofu Protocol",
         "url": "https://twitter.com/taofuxyz",
         "description": "Taofu unlocks liquidity and utility by bringing liquid staked TAO outside of Bittensor",
         "signature": "aaafd3496650a56f798cc587b5b7d372cec8e826a332a34213c1a6ee7be2b5122318858ee73421535d04186cc6976ae5452c6cd1aaf299a307d86d3c52b4a986"
-    },
-    "5HbLYXUBy1snPR8nfioQ7GoA9x76EELzEq9j7F32vWUQHm1x": {
-        "name": "Tensorplex Labs",
-        "url": "https://twitter.com/TensorplexLabs",
-        "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
-        "signature": "7a997682e7545fd14847c78abf810e9c49a23ef4297d24f4238c0edd0463934780f6831d59972d56ab5bc41d6224b59c21ed95065791632b8aca180ade22af81"
     },
     "5E2VSsWWXkBGCn4mi8RHXYQEF2wLXky6ZsNcTKnmEqaurzTE": {
         "name": "Sentinel",
@@ -328,5 +322,113 @@
         "url": "https://thomasblock.io",
         "description": "your fair and reliable Validator",
         "signature": "d8dc74d08da284cf8daecb58e2a60e4417ef61a9b6f402da9cb0499ac4ebb94612fe4448a6b6e04647b253133431678e7e76b6bd97b50cc9cf19b270ebef2b82"
+    },
+    "5EEsQ8iWiEmuoVL312QyHTsq3gNF3xKQEcPQvXctxPyYQKZQ": {
+        "name": "RivusDAO",
+        "url": "https://www.rivusdao.xyz/",
+        "description": "RivusDAO is the top liquid staking platform for TAO, aiming to unlock DeFi on Bittensor.",
+        "signature": "42643059b832c7d1f716402205beb25d86613e48ae8cf800611ba21faa5a216d1213d5d33456fe79bcb1aa732555f574861812d591b87748829fa5af1b00a081"
+    },
+    "5GsenVhBvgEG4xiiKUjcssfznHYVm1TqPbSbr3ixBW81ZVjo": {
+        "name": "vote NO dTAO 🤡",
+        "url": "https://twitter.com/karl_anons",
+        "description": "Delegate to express discontent. VOTE NO TO dTAO NOW!",
+        "signature": "3af4e764a520d355e12c02b9e8e315ddb76b76d40b7cc4dfaa11c26c24ab637cbdb9b72470ebdf2da87dd8d9f0bb5cddf1fe95b95fb2ae13069a9d87aace348a"
+    },
+    "5DM7CPqPKtMSADhFKYsstsCS4Tm4Kd6PMXoh6DdqY4MtxmtX": {
+        "name": "Corτex Foundaτion",
+        "url": "https://cortex.foundation/",
+        "description": "Cortex Foundation is committed to advancing the integration of decentralized AI. Our validator is designed for transparency, reliability, and community engagement.",
+        "signature": "7a6274ff6b0f7ddca97e37ef4a9b90781012ff3cf7baa3159f6feaafc43c557975aad324ea608d6b8abeb21f8f3ca2595e54b81a7564574d0242b803d969618a"
+    },
+    "5F27Eqz2PhyMtGMEce898x31DokNqRVxkm5AhDDe6rDGNvoY": {
+        "name": "Love",
+        "url": "https://love.cosimo.fund",
+        "description": "Love validator exists to accelerate open source AI and be good stewards of the Bittensorr network",
+        "signature": "c221a3de3be031c149a7be912b3b75e0355605f041dc975153302b23b4d93e45e9cc7453532491e92076ccd333a4c1f95f4a2229aae8f4fcfb88e5dec3f14c87"
+    },
+    "5DQ2Geab6G25wiZ4jGH6wJM8fekrm1QhV9hrRuntjBVxxKZm": {
+        "name": "Miner's Union Validator",
+        "url": "https://minersunion.ai",
+        "description": "The first Bittensor validator that empowers you to choose which subnets to incentivize. Committed to transparency and integrity, we ensure fair and honest validation processes that contribute to the growth and strength of the network.",
+        "signature": "46fb0313ee952ee52ec9c581720f28f87dbd6e5ff0218dd3ac3f7cd25720dc41a05e371f69be90d8e9894ad6155de191c891f2a395299d13e920e84ae29ace83"
+    },
+    "5E4z3h9yVhmQyCFWNbY9BPpwhx4xFiPwq3eeqmBgVF6KULde": {
+        "name": "Tensorplex Labs",
+        "url": "https://tensorplex.ai",
+        "description": "Empowering humanity with decentralized intelligence — one epoch at a time.",
+        "signature": "bae9942b50b0ebb4311a855c55b05e4a00200a349cbc0802546c4432ad10bd7de930d3552f4b7685ccf1294ea100997d2cf047f4c9f958eed9a8c30248a09d84"
+    },
+    "5HYk8DMKWK8TJyPzZJ9vmZk7B5NPCgjnZoyZ1ZsB54RXdN47": {
+        "name": "Crucible Labs",
+        "url": "https://cruciblelabs.com/",
+        "description": "Developing innovative solutions that enhance Bittensor's accessibility and functionality, empowering developers, entrepreneurs, and investors to build ethical, decentralized AI.",
+        "signature": "665a6684ee0702bee1621f81afe2cd1b568a5b856f3f478768647b6bf2c67408920cf472b0c2df62190f109256e3b96d75802726d44df4eea764b71479725d80"
+    },
+    "5Deo9Q3SnZWNPSEPRTgapbyy6egKu2oaNSqD4RQHHJEuzD9Y": {
+        "name": "Firepool",
+        "url": "https://firepool.ai/",
+        "description": "Firepool: Harnessing Cutting-Edge Blockchain and AI Technology to Make Your Investments Work Harder for You",
+        "signature": "1220f34c7c975714c5d29aab894b20ee07275ec1672c15fb65d2870c8b305f305e43d6b808548ec577738ab46484e15d2cb4a0eb31ad11c37d2101ee0009b68b"
+    },
+    "5D4oo3Z5VFUJtFWcK9wtfPqkGnzVubSFMnWnMKUVkDxsrWSj": {
+        "name": "Neos Lαbs",
+        "url": "https://neo-s.ai/",
+        "description": "Secure and efficient Web3 validator empowering decentralized intelligence on the Bittensor blockchain - high-yield staking",
+        "signature": "020e405da6a50bff05b9f3b4ae7180f28c2f90597ead902de7475033cbb3265b1328478cbcbccacf607b21749e974c78e17838b7a17991c7c7f9357973a0548c"
+    },
+    "5D4gEn5S422dTGR5NJJKZ93FNV6hDmfwDPfxFNgcoVnUkZ4f": {
+        "name": "Tatsu",
+        "url": "https://tatsuecosystem.io/",
+        "description": "Official Tatsu Validator. Building Decentralized Future on Bittensor.",
+        "signature": "e0d40509b9e18ff02b0803b9267f9779c05bd9017bb12a6110060a69688ded29397136fdd175f850e0c8faa89122a63e89829811e64dc76d737d52769d06ad83"
+    },
+    "5CBDhkBxf3u7rSZqbcBW59NCpGbCsZSDFBgToEc4owqk8S3A": {
+        "name": "Unit 410",
+        "url": "https://unit410.com/",
+        "description": "Empowering hodlers to use their crypto in secure and novel ways",
+        "signature": "746468a5d1fd7aaa3dde4474d0a7cf37e04c6c7af12202bdf6aca9a2262ed15b12000a40b91264c3cec3bf2b463d16c7e53f3f7d44646427f7bd1fabe1be2684"
+    },
+    "5CoZxgtfhcJKX2HmkwnsN18KbaT9aih9eF3b6qVPTgAUbifj": {
+        "name": "Latent Holdings",
+        "url": "latent.to",
+        "description": "Advancing Bittensor through opensource software and high commitment investments.",
+        "signature": "ac874ae7ad9a72bb110660f1bf3d3f2aa8a2152c9ee97087a7c4f9691aad771acc91031eba1bd3e9d5b2884fb845d622c74d51cf767c00f64cfa1bfc11f3008d"
+    },
+    "5Ft5kRgKDFafWX8mHneYqi44z8J3PGDguVjYnEADxjVJPTih": {
+        "name": "Staked",
+        "url": "https://staked.us",
+        "description": "Staked is the leading provider of validation technology and services.",
+        "signature": "accd6768420e9dc3c6b68fb07f91b662bc7fa5e2d550b1949a0efa8482a43535aafe9ad567fc17ee946915bae69c911ddd833126c0c996fccc67acdcc2f27288"
+    },
+    "5E2LP6EnZ54m3wS8s1yPvD5c3xo71kQroBw7aUVK32TKeZ5u": {
+        "name": "tao.bot",
+        "url": "https://tao.bot",
+        "description": "Official tao.bot validator",
+        "signature": "8ea4a96ccfcd3b6d3f6993c76a349cf7107213d25d3181d0c2121a4a8c1aa85847f2a4f7ac00cc383d5672108b2498dcbee0ea85d710f114d9290648869ab98e"
+    },
+    "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp": {
+        "name": "tao5",
+        "url": "https://tao5.com/",
+        "description": "Bittensor subnet incubator & network validator",
+        "signature": "32f6418447ee907240ca5856e25e31d87697b6d36302fefb0d2995709eb7da1db87685ee84d166b8a32e507a95321431931b5e81c1c54cdc88dd3e073ac4a68d"
+    },
+    "5G9hfkx9wGB1CLMT9WXkpHSAiYzjZb5o1Boyq4KAdDhjwrc5": {
+        "name": "1T1B.AI",
+        "url": "1t1b.ai",
+        "description": "official 1t1b.ai validator",
+        "signature": "1eca7254f17c62a150490826212fb55542117d42b658c06f2edfdd61d05b7c2cab53ee2ff1b051bfd9ea2e91d4e8e60746b4d66f15a5bf26ef94d334ba586e8d"
+    },
+    "5HpmskNwfgBSqsiJ8GoYazEXNP89eppotYZqfnRnE87kxaWG": {
+        "name": "Kiln",
+        "url": "https://www.kiln.fi/",
+        "description": "Democratising value creation in digital assets",
+        "signature": "1abe469f6de54f727b9726dfd0033f0f2200348a74603933885402044a871514c7070ff02a91e92dcbfb86a4a2930ac5265ead06416b8ba149bd1a46abd3d08f"
+    },
+    "5HVyT4uzFXaU1q39KMnq8hb5RjbqbjGNTTfc3tx8egmZBGvW": {
+          "name": "Mind7",
+          "url": "",
+          "description": "Decentralization is a mindset - We support Bittensor with this power",
+          "signature": "6a30e91de8ebd0cae6553634eb194fa172416efadf19ad3da810c841d8f41244eb136995d3f864bb635ee5f41c673d46d4c1a7373554419376a167c92f89dc8a"
     }
 }
