@@ -353,6 +353,12 @@
         "description": "Cortex Foundation is committed to advancing the integration of decentralized AI. Our validator is designed for transparency, reliability, and community engagement.",
         "signature": "7a6274ff6b0f7ddca97e37ef4a9b90781012ff3cf7baa3159f6feaafc43c557975aad324ea608d6b8abeb21f8f3ca2595e54b81a7564574d0242b803d969618a"
     },
+    "5CDst7shZrRWYBLRDak3X9kfZnArVyCWj9v6Dtu6Jt1dhtJi": {
+        "name": "GraphiteAI",
+        "url": "https://graphite-ai.net/",
+        "description": "Divided by codes, connected by nodes. Advancing Bittensor to make critical services more accessible, efficient, and equitable for everyone.",
+        "signature": "b2642a3720fe52522e026187d6dddf366b3c529008ee1ef213a167ef840d7f7cfc7d63fddd7514f7298ad9146e5d1042332461506a97d81ce1ee5eeb86b5908b"
+    },
     "5F27Eqz2PhyMtGMEce898x31DokNqRVxkm5AhDDe6rDGNvoY": {
         "name": "Love",
         "url": "https://love.cosimo.fund",
