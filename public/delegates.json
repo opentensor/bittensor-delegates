@@ -412,5 +412,11 @@
         "url": "https://www.kiln.fi/",
         "description": "Democratising value creation in digital assets",
         "signature": "1abe469f6de54f727b9726dfd0033f0f2200348a74603933885402044a871514c7070ff02a91e92dcbfb86a4a2930ac5265ead06416b8ba149bd1a46abd3d08f"
+    },
+    "5HVyT4uzFXaU1q39KMnq8hb5RjbqbjGNTTfc3tx8egmZBGvW": {
+          "name": "Mind7",
+          "url": "",
+          "description": "Decentralization is a mindset - We support Bittensor with this power",
+          "signature": "6a30e91de8ebd0cae6553634eb194fa172416efadf19ad3da810c841d8f41244eb136995d3f864bb635ee5f41c673d46d4c1a7373554419376a167c92f89dc8a"
     }
 }
