@@ -371,6 +371,12 @@
         "description": "The first Bittensor validator that empowers you to choose which subnets to incentivize. Committed to transparency and integrity, we ensure fair and honest validation processes that contribute to the growth and strength of the network.",
         "signature": "46fb0313ee952ee52ec9c581720f28f87dbd6e5ff0218dd3ac3f7cd25720dc41a05e371f69be90d8e9894ad6155de191c891f2a395299d13e920e84ae29ace83"
     },
+    "5EWLgJHBVE64kJKb3GWzzh33QEPNcj6UNr4cqyr1kkDsaVrk": {
+        "name": "Axis",
+        "url": "https://axis.dev",
+        "description": "Analysis & Accelerator for the Bittensor Network",
+        "signature": "ce47cc63c23695c18a1b1daf2245b65faca89f5a478431454597c50cfdda774b473d23976904bda3d00ba7d6052cd228de49930b2151e3c9b5bde9d4d8f36d80"
+    },
     "5CHuEaJDdFbEtpyjR4JddcANRb9JyqxD6zcT25BVgyMJ8J2r": {
         "name": "TaoXnet",
         "url": "https://taoxnet.com",
