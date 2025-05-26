@@ -371,6 +371,12 @@
         "description": "The first Bittensor validator that empowers you to choose which subnets to incentivize. Committed to transparency and integrity, we ensure fair and honest validation processes that contribute to the growth and strength of the network.",
         "signature": "46fb0313ee952ee52ec9c581720f28f87dbd6e5ff0218dd3ac3f7cd25720dc41a05e371f69be90d8e9894ad6155de191c891f2a395299d13e920e84ae29ace83"
     },
+    "5CHuEaJDdFbEtpyjR4JddcANRb9JyqxD6zcT25BVgyMJ8J2r": {
+        "name": "TaoXnet",
+        "url": "https://taoxnet.com",
+        "description": "Our project delivers a fast, reliable, and interactive real-time processing explorer for the Bittensor blockchain, ensuring seamless network navigation and data integrity.",
+        "signature": "84f1afaadac783beaf1fac479240ac0e539ba99a063f6ea64071661804127543b32c47dd7e963ff1ef7fc338af6b73683c2c4135bf220dde24d96240c99f7780"
+    },
     "5E4z3h9yVhmQyCFWNbY9BPpwhx4xFiPwq3eeqmBgVF6KULde": {
         "name": "Tensorplex Labs",
         "url": "https://tensorplex.ai",
