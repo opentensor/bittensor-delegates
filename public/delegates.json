@@ -317,6 +317,12 @@
         "description": "Sentinel, as a dedicated Bittensor validator aspires to elevate the bittensor network's integrity with an ambition to foster a community of miners contributing in the network’s continuous expansion.",
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     },
+    "5EEsQ8iWiEmuoVL312QyHTsq3gNF3xKQEcPQvXctxPyYQKZQ": {
+        "name": "RivusDAO",
+        "url": "https://www.rivusdao.xyz/",
+        "description": "RivusDAO is the top liquid staking platform for TAO, aiming to unlock DeFi on Bittensor.",
+        "signature": "42643059b832c7d1f716402205beb25d86613e48ae8cf800611ba21faa5a216d1213d5d33456fe79bcb1aa732555f574861812d591b87748829fa5af1b00a081"
+    },
     "5GsenVhBvgEG4xiiKUjcssfznHYVm1TqPbSbr3ixBW81ZVjo": {
         "name": "vote NO dTAO 🤡",
         "url": "https://twitter.com/karl_anons",
