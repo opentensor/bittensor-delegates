@@ -323,6 +323,12 @@
         "description": "Sentinel, as a dedicated Bittensor validator aspires to elevate the bittensor network's integrity with an ambition to foster a community of miners contributing in the network’s continuous expansion.",
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     },
+    "5GsL9zNp1CdKmKSYBGjeF9kGReRpS8KdQv2yJ3mHVwKq2YCq": {
+        "name": "BitRouter - API", 
+        "url": "bitrouter.ai", 
+        "description": "API services & High Staking Rewards", 
+        "signature": "1c41681bc99a676c79a171fdeebd11f3affe929c06cd501ba87fb880fc1b6e220dda10a5a48cb97c0876532bb62934c3162687ca914c717f76326c5013461681"
+    },
     "5Di4b9gGtjksRmsB4TCdkJphKwH23uBEdTcbduJZ6YYbiHmh": {
         "name": "ThomasBlock.io",
         "url": "https://thomasblock.io",
