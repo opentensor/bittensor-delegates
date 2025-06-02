@@ -1,8 +1,8 @@
 {
     "5DXVbg1vRYTsJnc3nLKp3UNjpuGfpvvTdcGXNTcd8ukx95B2": {
         "name": "OPSEC",
-        "url": "https://opsec.computer/", 
-        "description": "PIONEERING THE NEXT GENERATION DECENTRALIZED SUPERCOMPUTER APPLICATIONS", 
+        "url": "https://opsec.computer/",
+        "description": "PIONEERING THE NEXT GENERATION DECENTRALIZED SUPERCOMPUTER APPLICATIONS",
         "signature": "26d6d8f8a12a5f94d7c05426f828dcf459d2210f640f2349beb72c1fd4e3197467c6097b928d254df979dcc5fd7a35d94369e58b5f5e78feac909e8bca71ba87"
     },
     "5GP7c3fFazW9GXK8Up3qgu2DJBk8inu4aK9TZy3RuoSWVCMi": {
@@ -324,9 +324,9 @@
         "signature": "943effd0d5d10f05d53db7f69d0f045d50b65f88e84755be00d45225cc7c2f4212fbc4d23ad8519d03c2502daeeca1b2d07c93bff14c901f6cbf3a18fe2e6387"
     },
     "5GsL9zNp1CdKmKSYBGjeF9kGReRpS8KdQv2yJ3mHVwKq2YCq": {
-        "name": "BitRouter - API", 
-        "url": "bitrouter.ai", 
-        "description": "API services & High Staking Rewards", 
+        "name": "BitRouter - API",
+        "url": "bitrouter.ai",
+        "description": "API services & High Staking Rewards",
         "signature": "1c41681bc99a676c79a171fdeebd11f3affe929c06cd501ba87fb880fc1b6e220dda10a5a48cb97c0876532bb62934c3162687ca914c717f76326c5013461681"
     },
     "5Di4b9gGtjksRmsB4TCdkJphKwH23uBEdTcbduJZ6YYbiHmh": {
@@ -456,9 +456,15 @@
         "signature": "1abe469f6de54f727b9726dfd0033f0f2200348a74603933885402044a871514c7070ff02a91e92dcbfb86a4a2930ac5265ead06416b8ba149bd1a46abd3d08f"
     },
     "5HVyT4uzFXaU1q39KMnq8hb5RjbqbjGNTTfc3tx8egmZBGvW": {
-          "name": "Mind7",
-          "url": "",
-          "description": "Decentralization is a mindset - We support Bittensor with this power",
-          "signature": "6a30e91de8ebd0cae6553634eb194fa172416efadf19ad3da810c841d8f41244eb136995d3f864bb635ee5f41c673d46d4c1a7373554419376a167c92f89dc8a"
+        "name": "Mind7",
+        "url": "",
+        "description": "Decentralization is a mindset - We support Bittensor with this power",
+        "signature": "6a30e91de8ebd0cae6553634eb194fa172416efadf19ad3da810c841d8f41244eb136995d3f864bb635ee5f41c673d46d4c1a7373554419376a167c92f89dc8a"
+    },
+    "5Ea9VTMYG72UwxVHgjhq8FWS9n7eSaCuPZ1rfAvUYy5j8orM": {
+        "name": "Tiger Alpha",
+        "url": "",
+        "description": "",
+        "signature": "e6dc397e212d42e94bfd0f21a85f40537444717dac4be8df9a4e438b883b305fedc0706043f88a63d71520690b5299f540e521a2ff0bb6b59e9858f6a315678e"
     }
 }
